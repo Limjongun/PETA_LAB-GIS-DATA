@@ -1,0 +1,2046 @@
+{
+  "type": "FeatureCollection",
+  "name": "halte_bus_surabaya",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT001",
+        "nama_halte": "Halte Benowo 001",
+        "koridor": "Koridor 5",
+        "kecamatan": "Benowo",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.604534,
+          -7.234507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT002",
+        "nama_halte": "Halte Gunung Anyar 002",
+        "koridor": "Koridor 1",
+        "kecamatan": "Gunung Anyar",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.826291,
+          -7.326181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT003",
+        "nama_halte": "Halte Pakal 003",
+        "koridor": "Koridor 2",
+        "kecamatan": "Pakal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.697169,
+          -7.219196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT004",
+        "nama_halte": "Halte Kenjeran 004",
+        "koridor": "Koridor 1",
+        "kecamatan": "Kenjeran",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.788867,
+          -7.236861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT005",
+        "nama_halte": "Halte Pakal 005",
+        "koridor": "Koridor 5",
+        "kecamatan": "Pakal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.678887,
+          -7.198436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT006",
+        "nama_halte": "Halte Mulyorejo 006",
+        "koridor": "Koridor 1",
+        "kecamatan": "Mulyorejo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.770585,
+          -7.274652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT007",
+        "nama_halte": "Halte Rungkut 007",
+        "koridor": "Koridor 4",
+        "kecamatan": "Rungkut",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.779073,
+          -7.3024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT008",
+        "nama_halte": "Halte Gubeng 008",
+        "koridor": "Koridor 3",
+        "kecamatan": "Gubeng",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.778645,
+          -7.25612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT009",
+        "nama_halte": "Halte Dukuh Pakis 009",
+        "koridor": "Koridor 4",
+        "kecamatan": "Dukuh Pakis",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.720671,
+          -7.252336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT010",
+        "nama_halte": "Halte Asemrowo 010",
+        "koridor": "Koridor 1",
+        "kecamatan": "Asemrowo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.680763,
+          -7.245822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT011",
+        "nama_halte": "Halte Benowo 011",
+        "koridor": "Koridor 1",
+        "kecamatan": "Benowo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.62469,
+          -7.233162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT012",
+        "nama_halte": "Halte Jambangan 012",
+        "koridor": "Koridor 5",
+        "kecamatan": "Jambangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.739946,
+          -7.31693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT013",
+        "nama_halte": "Halte Gayungan 013",
+        "koridor": "Koridor 3",
+        "kecamatan": "Gayungan",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.737354,
+          -7.339915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT014",
+        "nama_halte": "Halte Rungkut 014",
+        "koridor": "Koridor 3",
+        "kecamatan": "Rungkut",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.817633,
+          -7.312932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT015",
+        "nama_halte": "Halte Kenjeran 015",
+        "koridor": "Koridor 2",
+        "kecamatan": "Kenjeran",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.789092,
+          -7.226974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT016",
+        "nama_halte": "Halte Pakal 016",
+        "koridor": "Koridor 2",
+        "kecamatan": "Pakal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.705424,
+          -7.214823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT017",
+        "nama_halte": "Halte Tegalsari 017",
+        "koridor": "Koridor 1",
+        "kecamatan": "Tegalsari",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.746226,
+          -7.258887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT018",
+        "nama_halte": "Halte Jambangan 018",
+        "koridor": "Koridor 3",
+        "kecamatan": "Jambangan",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72402,
+          -7.321536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT019",
+        "nama_halte": "Halte Wiyung 019",
+        "koridor": "Koridor 2",
+        "kecamatan": "Wiyung",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.691131,
+          -7.315691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT020",
+        "nama_halte": "Halte Krembangan 020",
+        "koridor": "Koridor 3",
+        "kecamatan": "Krembangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.707831,
+          -7.241495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT021",
+        "nama_halte": "Halte Sawahan 021",
+        "koridor": "Koridor 2",
+        "kecamatan": "Sawahan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.739624,
+          -7.228711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT022",
+        "nama_halte": "Halte Semampir 022",
+        "koridor": "Koridor 4",
+        "kecamatan": "Semampir",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.731127,
+          -7.241293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT023",
+        "nama_halte": "Halte Pakal 023",
+        "koridor": "Koridor 5",
+        "kecamatan": "Pakal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.670508,
+          -7.238397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT024",
+        "nama_halte": "Halte Simokerto 024",
+        "koridor": "Koridor 5",
+        "kecamatan": "Simokerto",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72793,
+          -7.23995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT025",
+        "nama_halte": "Halte Semampir 025",
+        "koridor": "Koridor 2",
+        "kecamatan": "Semampir",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.758686,
+          -7.235177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT026",
+        "nama_halte": "Halte Tenggilis Mejoyo 026",
+        "koridor": "Koridor 1",
+        "kecamatan": "Tenggilis Mejoyo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.770737,
+          -7.328957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT027",
+        "nama_halte": "Halte Asemrowo 027",
+        "koridor": "Koridor 5",
+        "kecamatan": "Asemrowo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.686486,
+          -7.232349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT028",
+        "nama_halte": "Halte Tandes 028",
+        "koridor": "Koridor 1",
+        "kecamatan": "Tandes",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.648447,
+          -7.25878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT029",
+        "nama_halte": "Halte Simokerto 029",
+        "koridor": "Koridor 5",
+        "kecamatan": "Simokerto",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.758223,
+          -7.225567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT030",
+        "nama_halte": "Halte Bubutan 030",
+        "koridor": "Koridor 3",
+        "kecamatan": "Bubutan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.757923,
+          -7.259754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT031",
+        "nama_halte": "Halte Semampir 031",
+        "koridor": "Koridor 4",
+        "kecamatan": "Semampir",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.757123,
+          -7.252438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT032",
+        "nama_halte": "Halte Simokerto 032",
+        "koridor": "Koridor 3",
+        "kecamatan": "Simokerto",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.729715,
+          -7.244436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT033",
+        "nama_halte": "Halte Bubutan 033",
+        "koridor": "Koridor 5",
+        "kecamatan": "Bubutan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.743067,
+          -7.255562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT034",
+        "nama_halte": "Halte Jambangan 034",
+        "koridor": "Koridor 5",
+        "kecamatan": "Jambangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.727384,
+          -7.31952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT035",
+        "nama_halte": "Halte Gunung Anyar 035",
+        "koridor": "Koridor 1",
+        "kecamatan": "Gunung Anyar",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.777161,
+          -7.347265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT036",
+        "nama_halte": "Halte Pakal 036",
+        "koridor": "Koridor 3",
+        "kecamatan": "Pakal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.684655,
+          -7.230405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT037",
+        "nama_halte": "Halte Wonocolo 037",
+        "koridor": "Koridor 5",
+        "kecamatan": "Wonocolo",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.778458,
+          -7.298765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT038",
+        "nama_halte": "Halte Asemrowo 038",
+        "koridor": "Koridor 3",
+        "kecamatan": "Asemrowo",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.707809,
+          -7.250566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT039",
+        "nama_halte": "Halte Mulyorejo 039",
+        "koridor": "Koridor 3",
+        "kecamatan": "Mulyorejo",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.807961,
+          -7.287243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT040",
+        "nama_halte": "Halte Bubutan 040",
+        "koridor": "Koridor 5",
+        "kecamatan": "Bubutan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.746983,
+          -7.242412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT041",
+        "nama_halte": "Halte Kenjeran 041",
+        "koridor": "Koridor 2",
+        "kecamatan": "Kenjeran",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.777034,
+          -7.256458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT042",
+        "nama_halte": "Halte Bulak 042",
+        "koridor": "Koridor 3",
+        "kecamatan": "Bulak",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.817691,
+          -7.225211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT043",
+        "nama_halte": "Halte Asemrowo 043",
+        "koridor": "Koridor 2",
+        "kecamatan": "Asemrowo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.701567,
+          -7.209217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT044",
+        "nama_halte": "Halte Jambangan 044",
+        "koridor": "Koridor 2",
+        "kecamatan": "Jambangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.735135,
+          -7.329256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT045",
+        "nama_halte": "Halte Karang Pilang 045",
+        "koridor": "Koridor 1",
+        "kecamatan": "Karang Pilang",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.715952,
+          -7.331944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT046",
+        "nama_halte": "Halte Tenggilis Mejoyo 046",
+        "koridor": "Koridor 2",
+        "kecamatan": "Tenggilis Mejoyo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.730664,
+          -7.324941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT047",
+        "nama_halte": "Halte Kenjeran 047",
+        "koridor": "Koridor 1",
+        "kecamatan": "Kenjeran",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.820988,
+          -7.280834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT048",
+        "nama_halte": "Halte Kenjeran 048",
+        "koridor": "Koridor 4",
+        "kecamatan": "Kenjeran",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.761541,
+          -7.239724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT049",
+        "nama_halte": "Halte Benowo 049",
+        "koridor": "Koridor 3",
+        "kecamatan": "Benowo",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.630538,
+          -7.231459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT050",
+        "nama_halte": "Halte Lakarsantri 050",
+        "koridor": "Koridor 5",
+        "kecamatan": "Lakarsantri",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.684696,
+          -7.330361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT051",
+        "nama_halte": "Halte Lakarsantri 051",
+        "koridor": "Koridor 1",
+        "kecamatan": "Lakarsantri",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.644313,
+          -7.313198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT052",
+        "nama_halte": "Halte Tenggilis Mejoyo 052",
+        "koridor": "Koridor 5",
+        "kecamatan": "Tenggilis Mejoyo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.753204,
+          -7.339266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT053",
+        "nama_halte": "Halte Sukomanunggal 053",
+        "koridor": "Koridor 4",
+        "kecamatan": "Sukomanunggal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.721111,
+          -7.264295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT054",
+        "nama_halte": "Halte Jambangan 054",
+        "koridor": "Koridor 4",
+        "kecamatan": "Jambangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.737996,
+          -7.286992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT055",
+        "nama_halte": "Halte Pabean Cantian 055",
+        "koridor": "Koridor 4",
+        "kecamatan": "Pabean Cantian",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.747091,
+          -7.241735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT056",
+        "nama_halte": "Halte Semampir 056",
+        "koridor": "Koridor 3",
+        "kecamatan": "Semampir",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.762346,
+          -7.247295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT057",
+        "nama_halte": "Halte Simokerto 057",
+        "koridor": "Koridor 4",
+        "kecamatan": "Simokerto",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.762735,
+          -7.231826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT058",
+        "nama_halte": "Halte Pakal 058",
+        "koridor": "Koridor 4",
+        "kecamatan": "Pakal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.676412,
+          -7.229714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT059",
+        "nama_halte": "Halte Tambaksari 059",
+        "koridor": "Koridor 4",
+        "kecamatan": "Tambaksari",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.766667,
+          -7.269735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT060",
+        "nama_halte": "Halte Gayungan 060",
+        "koridor": "Koridor 3",
+        "kecamatan": "Gayungan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.729477,
+          -7.34113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT061",
+        "nama_halte": "Halte Tandes 061",
+        "koridor": "Koridor 5",
+        "kecamatan": "Tandes",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.667693,
+          -7.257765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT062",
+        "nama_halte": "Halte Krembangan 062",
+        "koridor": "Koridor 4",
+        "kecamatan": "Krembangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71429,
+          -7.238751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT063",
+        "nama_halte": "Halte Tambaksari 063",
+        "koridor": "Koridor 1",
+        "kecamatan": "Tambaksari",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.759113,
+          -7.272195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT064",
+        "nama_halte": "Halte Simokerto 064",
+        "koridor": "Koridor 5",
+        "kecamatan": "Simokerto",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.744481,
+          -7.27083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT065",
+        "nama_halte": "Halte Bubutan 065",
+        "koridor": "Koridor 3",
+        "kecamatan": "Bubutan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.726168,
+          -7.251006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT066",
+        "nama_halte": "Halte Lakarsantri 066",
+        "koridor": "Koridor 3",
+        "kecamatan": "Lakarsantri",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.639458,
+          -7.304177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT067",
+        "nama_halte": "Halte Benowo 067",
+        "koridor": "Koridor 4",
+        "kecamatan": "Benowo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.607691,
+          -7.233691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT068",
+        "nama_halte": "Halte Sambikerep 068",
+        "koridor": "Koridor 4",
+        "kecamatan": "Sambikerep",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.660616,
+          -7.256645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT069",
+        "nama_halte": "Halte Tegalsari 069",
+        "koridor": "Koridor 5",
+        "kecamatan": "Tegalsari",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.702049,
+          -7.24734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT070",
+        "nama_halte": "Halte Bulak 070",
+        "koridor": "Koridor 2",
+        "kecamatan": "Bulak",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.802039,
+          -7.219079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT071",
+        "nama_halte": "Halte Tenggilis Mejoyo 071",
+        "koridor": "Koridor 4",
+        "kecamatan": "Tenggilis Mejoyo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.772344,
+          -7.297129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT072",
+        "nama_halte": "Halte Dukuh Pakis 072",
+        "koridor": "Koridor 2",
+        "kecamatan": "Dukuh Pakis",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.721663,
+          -7.295413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT073",
+        "nama_halte": "Halte Tenggilis Mejoyo 073",
+        "koridor": "Koridor 2",
+        "kecamatan": "Tenggilis Mejoyo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.747753,
+          -7.330022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT074",
+        "nama_halte": "Halte Tambaksari 074",
+        "koridor": "Koridor 1",
+        "kecamatan": "Tambaksari",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.765822,
+          -7.244303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT075",
+        "nama_halte": "Halte Genteng 075",
+        "koridor": "Koridor 4",
+        "kecamatan": "Genteng",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.771395,
+          -7.272191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT076",
+        "nama_halte": "Halte Rungkut 076",
+        "koridor": "Koridor 3",
+        "kecamatan": "Rungkut",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.781042,
+          -7.302889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT077",
+        "nama_halte": "Halte Tegalsari 077",
+        "koridor": "Koridor 2",
+        "kecamatan": "Tegalsari",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.733183,
+          -7.280519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT078",
+        "nama_halte": "Halte Tenggilis Mejoyo 078",
+        "koridor": "Koridor 4",
+        "kecamatan": "Tenggilis Mejoyo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.748485,
+          -7.321373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT079",
+        "nama_halte": "Halte Pabean Cantian 079",
+        "koridor": "Koridor 4",
+        "kecamatan": "Pabean Cantian",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.742211,
+          -7.226411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT080",
+        "nama_halte": "Halte Kenjeran 080",
+        "koridor": "Koridor 2",
+        "kecamatan": "Kenjeran",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.789957,
+          -7.262278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT081",
+        "nama_halte": "Halte Kenjeran 081",
+        "koridor": "Koridor 4",
+        "kecamatan": "Kenjeran",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.812685,
+          -7.232687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT082",
+        "nama_halte": "Halte Pakal 082",
+        "koridor": "Koridor 1",
+        "kecamatan": "Pakal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.716793,
+          -7.204812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT083",
+        "nama_halte": "Halte Tegalsari 083",
+        "koridor": "Koridor 2",
+        "kecamatan": "Tegalsari",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.741434,
+          -7.269208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT084",
+        "nama_halte": "Halte Jambangan 084",
+        "koridor": "Koridor 1",
+        "kecamatan": "Jambangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.723426,
+          -7.301859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT085",
+        "nama_halte": "Halte Gubeng 085",
+        "koridor": "Koridor 4",
+        "kecamatan": "Gubeng",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.761516,
+          -7.283262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT086",
+        "nama_halte": "Halte Dukuh Pakis 086",
+        "koridor": "Koridor 4",
+        "kecamatan": "Dukuh Pakis",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.724325,
+          -7.289015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT087",
+        "nama_halte": "Halte Lakarsantri 087",
+        "koridor": "Koridor 1",
+        "kecamatan": "Lakarsantri",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.653952,
+          -7.322929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT088",
+        "nama_halte": "Halte Sukolilo 088",
+        "koridor": "Koridor 3",
+        "kecamatan": "Sukolilo",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.747274,
+          -7.295656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT089",
+        "nama_halte": "Halte Karang Pilang 089",
+        "koridor": "Koridor 2",
+        "kecamatan": "Karang Pilang",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.734758,
+          -7.313265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT090",
+        "nama_halte": "Halte Benowo 090",
+        "koridor": "Koridor 3",
+        "kecamatan": "Benowo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.62477,
+          -7.233194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT091",
+        "nama_halte": "Halte Karang Pilang 091",
+        "koridor": "Koridor 4",
+        "kecamatan": "Karang Pilang",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.705528,
+          -7.325684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT092",
+        "nama_halte": "Halte Kenjeran 092",
+        "koridor": "Koridor 4",
+        "kecamatan": "Kenjeran",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.787015,
+          -7.233784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT093",
+        "nama_halte": "Halte Genteng 093",
+        "koridor": "Koridor 4",
+        "kecamatan": "Genteng",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.767074,
+          -7.286641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT094",
+        "nama_halte": "Halte Lakarsantri 094",
+        "koridor": "Koridor 1",
+        "kecamatan": "Lakarsantri",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.66743,
+          -7.305596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT095",
+        "nama_halte": "Halte Wonokromo 095",
+        "koridor": "Koridor 4",
+        "kecamatan": "Wonokromo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75088,
+          -7.295031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT096",
+        "nama_halte": "Halte Asemrowo 096",
+        "koridor": "Koridor 4",
+        "kecamatan": "Asemrowo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.720818,
+          -7.225255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT097",
+        "nama_halte": "Halte Krembangan 097",
+        "koridor": "Koridor 1",
+        "kecamatan": "Krembangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.729555,
+          -7.263107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT098",
+        "nama_halte": "Halte Genteng 098",
+        "koridor": "Koridor 1",
+        "kecamatan": "Genteng",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.739118,
+          -7.260261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT099",
+        "nama_halte": "Halte Tenggilis Mejoyo 099",
+        "koridor": "Koridor 5",
+        "kecamatan": "Tenggilis Mejoyo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.766272,
+          -7.295672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT100",
+        "nama_halte": "Halte Wonokromo 100",
+        "koridor": "Koridor 3",
+        "kecamatan": "Wonokromo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.759802,
+          -7.30627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT101",
+        "nama_halte": "Halte Tandes 101",
+        "koridor": "Koridor 1",
+        "kecamatan": "Tandes",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.666551,
+          -7.248499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT102",
+        "nama_halte": "Halte Tenggilis Mejoyo 102",
+        "koridor": "Koridor 4",
+        "kecamatan": "Tenggilis Mejoyo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.756048,
+          -7.304737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT103",
+        "nama_halte": "Halte Lakarsantri 103",
+        "koridor": "Koridor 4",
+        "kecamatan": "Lakarsantri",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.674745,
+          -7.309677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT104",
+        "nama_halte": "Halte Wonokromo 104",
+        "koridor": "Koridor 3",
+        "kecamatan": "Wonokromo",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.716772,
+          -7.289062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT105",
+        "nama_halte": "Halte Karang Pilang 105",
+        "koridor": "Koridor 3",
+        "kecamatan": "Karang Pilang",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.710577,
+          -7.349963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT106",
+        "nama_halte": "Halte Pakal 106",
+        "koridor": "Koridor 2",
+        "kecamatan": "Pakal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.686401,
+          -7.221524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT107",
+        "nama_halte": "Halte Semampir 107",
+        "koridor": "Koridor 1",
+        "kecamatan": "Semampir",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.758616,
+          -7.256144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT108",
+        "nama_halte": "Halte Lakarsantri 108",
+        "koridor": "Koridor 1",
+        "kecamatan": "Lakarsantri",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.661761,
+          -7.309749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT109",
+        "nama_halte": "Halte Bulak 109",
+        "koridor": "Koridor 4",
+        "kecamatan": "Bulak",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.788211,
+          -7.25072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT110",
+        "nama_halte": "Halte Gubeng 110",
+        "koridor": "Koridor 2",
+        "kecamatan": "Gubeng",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.760923,
+          -7.282184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT111",
+        "nama_halte": "Halte Sukomanunggal 111",
+        "koridor": "Koridor 5",
+        "kecamatan": "Sukomanunggal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.697035,
+          -7.230158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT112",
+        "nama_halte": "Halte Tegalsari 112",
+        "koridor": "Koridor 3",
+        "kecamatan": "Tegalsari",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74903,
+          -7.27532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT113",
+        "nama_halte": "Halte Sukomanunggal 113",
+        "koridor": "Koridor 3",
+        "kecamatan": "Sukomanunggal",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.724023,
+          -7.238687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT114",
+        "nama_halte": "Halte Dukuh Pakis 114",
+        "koridor": "Koridor 3",
+        "kecamatan": "Dukuh Pakis",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.711062,
+          -7.278164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT115",
+        "nama_halte": "Halte Krembangan 115",
+        "koridor": "Koridor 3",
+        "kecamatan": "Krembangan",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72311,
+          -7.22186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT116",
+        "nama_halte": "Halte Tandes 116",
+        "koridor": "Koridor 1",
+        "kecamatan": "Tandes",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.629734,
+          -7.283113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT117",
+        "nama_halte": "Halte Pabean Cantian 117",
+        "koridor": "Koridor 2",
+        "kecamatan": "Pabean Cantian",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.711151,
+          -7.218477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT118",
+        "nama_halte": "Halte Jambangan 118",
+        "koridor": "Koridor 2",
+        "kecamatan": "Jambangan",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.734481,
+          -7.310852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT119",
+        "nama_halte": "Halte Sambikerep 119",
+        "koridor": "Koridor 2",
+        "kecamatan": "Sambikerep",
+        "aktif": "Ya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.654861,
+          -7.25837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HT120",
+        "nama_halte": "Halte Mulyorejo 120",
+        "koridor": "Koridor 5",
+        "kecamatan": "Mulyorejo",
+        "aktif": "Tidak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.811834,
+          -7.265117
+        ]
+      }
+    }
+  ]
+}

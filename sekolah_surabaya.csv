@@ -1,0 +1,241 @@
+id,nama,jenjang,status,jumlah_siswa,kecamatan,lintang,bujur
+SK0001,SD Swasta Semampir 001,SD,Swasta,321,Semampir,-7.232124,112.772366
+SK0002,SD Negeri Rungkut 002,SD,Negeri,430,Rungkut,-7.305918,112.782869
+SK0003,SMP Negeri Pakal 003,SMP,Negeri,424,Pakal,-7.233332,112.669734
+SK0004,SMA Negeri Gunung Anyar 004,SMA,Negeri,663,Gunung Anyar,-7.333419,112.779357
+SK0005,SD Negeri Karang Pilang 005,SD,Negeri,324,Karang Pilang,-7.331752,112.696354
+SK0006,SMP Swasta Kenjeran 006,SMP,Swasta,588,Kenjeran,-7.242589,112.774245
+SK0007,SD Negeri Wonokromo 007,SD,Negeri,394,Wonokromo,-7.314329,112.748568
+SK0008,SD Swasta Sukolilo 008,SD,Swasta,207,Sukolilo,-7.285368,112.761026
+SK0009,SD Negeri Wiyung 009,SD,Negeri,292,Wiyung,-7.28671,112.702078
+SK0010,SMA Swasta Genteng 010,SMA,Swasta,701,Genteng,-7.272373,112.742478
+SK0011,SD Swasta Semampir 011,SD,Swasta,376,Semampir,-7.22867,112.773716
+SK0012,SD Negeri Rungkut 012,SD,Negeri,309,Rungkut,-7.313733,112.777255
+SK0013,SD Negeri Tegalsari 013,SD,Negeri,311,Tegalsari,-7.26219,112.754575
+SK0014,SD Negeri Karang Pilang 014,SD,Negeri,239,Karang Pilang,-7.313306,112.693187
+SK0015,SD Negeri Dukuh Pakis 015,SD,Negeri,238,Dukuh Pakis,-7.295424,112.701205
+SK0016,SD Swasta Krembangan 016,SD,Swasta,198,Krembangan,-7.229465,112.734591
+SK0017,SD Negeri Tambaksari 017,SD,Negeri,181,Tambaksari,-7.269168,112.755062
+SK0018,SMP Negeri Krembangan 018,SMP,Negeri,508,Krembangan,-7.238635,112.739132
+SK0019,SD Swasta Tenggilis Mejoyo 019,SD,Swasta,262,Tenggilis Mejoyo,-7.331541,112.758188
+SK0020,SD Negeri Bulak 020,SD,Negeri,479,Bulak,-7.209501,112.788392
+SK0021,SD Negeri Sukomanunggal 021,SD,Negeri,427,Sukomanunggal,-7.218122,112.72094
+SK0022,SMP Negeri Semampir 022,SMP,Negeri,377,Semampir,-7.243703,112.761671
+SK0023,SMA Negeri Tenggilis Mejoyo 023,SMA,Negeri,733,Tenggilis Mejoyo,-7.317962,112.787401
+SK0024,SMK Swasta Wonocolo 024,SMK,Swasta,680,Wonocolo,-7.31031,112.750589
+SK0025,SMK Negeri Sambikerep 025,SMK,Negeri,538,Sambikerep,-7.2702,112.661961
+SK0026,SMP Swasta Dukuh Pakis 026,SMP,Swasta,194,Dukuh Pakis,-7.284428,112.735957
+SK0027,SD Negeri Sawahan 027,SD,Negeri,144,Sawahan,-7.259046,112.735534
+SK0028,SMP Negeri Simokerto 028,SMP,Negeri,618,Simokerto,-7.252558,112.748328
+SK0029,SD Negeri Gubeng 029,SD,Negeri,179,Gubeng,-7.270614,112.770006
+SK0030,SD Swasta Benowo 030,SD,Swasta,327,Benowo,-7.223276,112.632948
+SK0031,SD Negeri Gubeng 031,SD,Negeri,145,Gubeng,-7.269994,112.762822
+SK0032,SMA Swasta Gubeng 032,SMA,Swasta,387,Gubeng,-7.263318,112.756243
+SK0033,SD Negeri Lakarsantri 033,SD,Negeri,344,Lakarsantri,-7.323723,112.652739
+SK0034,SD Negeri Benowo 034,SD,Negeri,187,Benowo,-7.220343,112.62957
+SK0035,SMP Negeri Genteng 035,SMP,Negeri,555,Genteng,-7.258277,112.750049
+SK0036,SMK Negeri Tandes 036,SMK,Negeri,559,Tandes,-7.215225,112.679271
+SK0037,SD Negeri Tegalsari 037,SD,Negeri,321,Tegalsari,-7.279211,112.720159
+SK0038,SD Negeri Wiyung 038,SD,Negeri,391,Wiyung,-7.32876,112.73373
+SK0039,SMK Swasta Gunung Anyar 039,SMK,Swasta,546,Gunung Anyar,-7.321719,112.794236
+SK0040,SMA Negeri Simokerto 040,SMA,Negeri,219,Simokerto,-7.255638,112.779237
+SK0041,SMA Negeri Sambikerep 041,SMA,Negeri,535,Sambikerep,-7.267054,112.633956
+SK0042,SD Swasta Pakal 042,SD,Swasta,356,Pakal,-7.20836,112.684912
+SK0043,SD Swasta Sawahan 043,SD,Swasta,100,Sawahan,-7.238042,112.718106
+SK0044,SMP Negeri Benowo 044,SMP,Negeri,386,Benowo,-7.238825,112.629175
+SK0045,SD Swasta Wonokromo 045,SD,Swasta,285,Wonokromo,-7.291027,112.750161
+SK0046,SD Swasta Mulyorejo 046,SD,Swasta,438,Mulyorejo,-7.251669,112.793449
+SK0047,SMK Negeri Sambikerep 047,SMK,Negeri,659,Sambikerep,-7.261431,112.683208
+SK0048,SD Negeri Wonocolo 048,SD,Negeri,225,Wonocolo,-7.324803,112.747389
+SK0049,SMP Swasta Jambangan 049,SMP,Swasta,468,Jambangan,-7.318738,112.732443
+SK0050,SD Swasta Simokerto 050,SD,Swasta,233,Simokerto,-7.248787,112.774094
+SK0051,SMP Negeri Sukomanunggal 051,SMP,Negeri,268,Sukomanunggal,-7.25368,112.718892
+SK0052,SMP Negeri Gunung Anyar 052,SMP,Negeri,708,Gunung Anyar,-7.336553,112.794686
+SK0053,SD Negeri Semampir 053,SD,Negeri,512,Semampir,-7.238241,112.750508
+SK0054,SD Swasta Sukomanunggal 054,SD,Swasta,253,Sukomanunggal,-7.247423,112.711817
+SK0055,SMK Swasta Tenggilis Mejoyo 055,SMK,Swasta,225,Tenggilis Mejoyo,-7.324432,112.754099
+SK0056,SD Negeri Dukuh Pakis 056,SD,Negeri,288,Dukuh Pakis,-7.262576,112.71019
+SK0057,SMK Negeri Benowo 057,SMK,Negeri,620,Benowo,-7.220611,112.641186
+SK0058,SMK Swasta Lakarsantri 058,SMK,Swasta,177,Lakarsantri,-7.312822,112.658633
+SK0059,SMK Swasta Gayungan 059,SMK,Swasta,655,Gayungan,-7.331423,112.732791
+SK0060,SD Swasta Wonokromo 060,SD,Swasta,219,Wonokromo,-7.30055,112.729376
+SK0061,SMA Negeri Gayungan 061,SMA,Negeri,829,Gayungan,-7.346679,112.737509
+SK0062,SD Swasta Mulyorejo 062,SD,Swasta,523,Mulyorejo,-7.257714,112.781436
+SK0063,SD Negeri Simokerto 063,SD,Negeri,512,Simokerto,-7.270084,112.745872
+SK0064,SMA Swasta Krembangan 064,SMA,Swasta,836,Krembangan,-7.239886,112.726378
+SK0065,SMK Negeri Wonocolo 065,SMK,Negeri,785,Wonocolo,-7.313099,112.751655
+SK0066,SMA Negeri Sukomanunggal 066,SMA,Negeri,691,Sukomanunggal,-7.23608,112.713412
+SK0067,SMP Negeri Wonocolo 067,SMP,Negeri,477,Wonocolo,-7.311575,112.75502
+SK0068,SMK Swasta Sukomanunggal 068,SMK,Swasta,498,Sukomanunggal,-7.237835,112.72605
+SK0069,SMP Negeri Tenggilis Mejoyo 069,SMP,Negeri,352,Tenggilis Mejoyo,-7.29656,112.758084
+SK0070,SMA Negeri Jambangan 070,SMA,Negeri,397,Jambangan,-7.322469,112.713874
+SK0071,SD Swasta Genteng 071,SD,Swasta,213,Genteng,-7.293755,112.739105
+SK0072,SMK Negeri Rungkut 072,SMK,Negeri,498,Rungkut,-7.308985,112.801709
+SK0073,SMP Negeri Sawahan 073,SMP,Negeri,371,Sawahan,-7.251342,112.706948
+SK0074,SMA Swasta Tandes 074,SMA,Swasta,630,Tandes,-7.262333,112.682322
+SK0075,SD Swasta Sawahan 075,SD,Swasta,321,Sawahan,-7.272237,112.733669
+SK0076,SD Swasta Asemrowo 076,SD,Swasta,393,Asemrowo,-7.241212,112.687989
+SK0077,SD Swasta Mulyorejo 077,SD,Swasta,379,Mulyorejo,-7.24619,112.778631
+SK0078,SMA Swasta Semampir 078,SMA,Swasta,565,Semampir,-7.222723,112.737396
+SK0079,SD Negeri Tambaksari 079,SD,Negeri,450,Tambaksari,-7.257684,112.767537
+SK0080,SD Negeri Wiyung 080,SD,Negeri,346,Wiyung,-7.317907,112.712954
+SK0081,SMP Swasta Rungkut 081,SMP,Swasta,659,Rungkut,-7.32462,112.778571
+SK0082,SMK Negeri Tegalsari 082,SMK,Negeri,367,Tegalsari,-7.257508,112.751678
+SK0083,SD Negeri Mulyorejo 083,SD,Negeri,196,Mulyorejo,-7.279161,112.770904
+SK0084,SD Swasta Gunung Anyar 084,SD,Swasta,299,Gunung Anyar,-7.338744,112.807605
+SK0085,SMP Negeri Wonocolo 085,SMP,Negeri,510,Wonocolo,-7.292562,112.740518
+SK0086,SD Negeri Lakarsantri 086,SD,Negeri,280,Lakarsantri,-7.299716,112.671256
+SK0087,SMK Negeri Krembangan 087,SMK,Negeri,476,Krembangan,-7.260783,112.725049
+SK0088,SMK Negeri Asemrowo 088,SMK,Negeri,408,Asemrowo,-7.244992,112.717328
+SK0089,SD Swasta Tegalsari 089,SD,Swasta,174,Tegalsari,-7.275064,112.733155
+SK0090,SMP Negeri Lakarsantri 090,SMP,Negeri,596,Lakarsantri,-7.331175,112.643862
+SK0091,SD Negeri Sukomanunggal 091,SD,Negeri,428,Sukomanunggal,-7.229966,112.725839
+SK0092,SMP Negeri Sambikerep 092,SMP,Negeri,508,Sambikerep,-7.292314,112.67105
+SK0093,SD Negeri Gayungan 093,SD,Negeri,343,Gayungan,-7.319232,112.734526
+SK0094,SMK Negeri Tambaksari 094,SMK,Negeri,408,Tambaksari,-7.24702,112.747252
+SK0095,SMP Swasta Sukomanunggal 095,SMP,Swasta,336,Sukomanunggal,-7.227927,112.717399
+SK0096,SD Negeri Tambaksari 096,SD,Negeri,160,Tambaksari,-7.245008,112.744737
+SK0097,SD Swasta Gubeng 097,SD,Swasta,247,Gubeng,-7.268592,112.744806
+SK0098,SMP Swasta Gayungan 098,SMP,Swasta,207,Gayungan,-7.333711,112.713297
+SK0099,SMK Negeri Gayungan 099,SMK,Negeri,805,Gayungan,-7.327933,112.720372
+SK0100,SMK Negeri Krembangan 100,SMK,Negeri,129,Krembangan,-7.25743,112.711533
+SK0101,SD Swasta Gubeng 101,SD,Swasta,409,Gubeng,-7.278432,112.77617
+SK0102,SD Negeri Tandes 102,SD,Negeri,541,Tandes,-7.260994,112.661147
+SK0103,SD Swasta Semampir 103,SD,Swasta,343,Semampir,-7.243792,112.773136
+SK0104,SMP Negeri Tegalsari 104,SMP,Negeri,421,Tegalsari,-7.263876,112.744633
+SK0105,SD Swasta Semampir 105,SD,Swasta,194,Semampir,-7.241977,112.738725
+SK0106,SD Negeri Gunung Anyar 106,SD,Negeri,391,Gunung Anyar,-7.330903,112.792925
+SK0107,SD Negeri Mulyorejo 107,SD,Negeri,235,Mulyorejo,-7.271085,112.810634
+SK0108,SMP Negeri Gayungan 108,SMP,Negeri,538,Gayungan,-7.33011,112.743406
+SK0109,SMA Negeri Sawahan 109,SMA,Negeri,1035,Sawahan,-7.25244,112.748845
+SK0110,SMP Negeri Pabean Cantian 110,SMP,Negeri,617,Pabean Cantian,-7.253917,112.740133
+SK0111,SMA Negeri Mulyorejo 111,SMA,Negeri,613,Mulyorejo,-7.245481,112.782122
+SK0112,SMP Negeri Pabean Cantian 112,SMP,Negeri,688,Pabean Cantian,-7.22003,112.736979
+SK0113,SMA Negeri Kenjeran 113,SMA,Negeri,559,Kenjeran,-7.234615,112.791138
+SK0114,SMK Swasta Rungkut 114,SMK,Swasta,722,Rungkut,-7.307141,112.799646
+SK0115,SMA Swasta Gunung Anyar 115,SMA,Swasta,402,Gunung Anyar,-7.341309,112.803163
+SK0116,SD Negeri Gubeng 116,SD,Negeri,363,Gubeng,-7.266928,112.745173
+SK0117,SMK Negeri Benowo 117,SMK,Negeri,583,Benowo,-7.232098,112.645946
+SK0118,SD Negeri Wiyung 118,SD,Negeri,224,Wiyung,-7.314356,112.711161
+SK0119,SD Swasta Tenggilis Mejoyo 119,SD,Swasta,113,Tenggilis Mejoyo,-7.31489,112.756179
+SK0120,SMA Negeri Semampir 120,SMA,Negeri,604,Semampir,-7.227723,112.729447
+SK0121,SMK Negeri Bubutan 121,SMK,Negeri,646,Bubutan,-7.278318,112.736673
+SK0122,SD Swasta Pakal 122,SD,Swasta,242,Pakal,-7.219788,112.696489
+SK0123,SD Swasta Lakarsantri 123,SD,Swasta,178,Lakarsantri,-7.333221,112.67035
+SK0124,SD Negeri Genteng 124,SD,Negeri,295,Genteng,-7.269532,112.761876
+SK0125,SD Negeri Gayungan 125,SD,Negeri,242,Gayungan,-7.335135,112.735883
+SK0126,SMK Negeri Sukolilo 126,SMK,Negeri,957,Sukolilo,-7.289422,112.804856
+SK0127,SMP Swasta Tandes 127,SMP,Swasta,641,Tandes,-7.263712,112.648343
+SK0128,SD Negeri Wonokromo 128,SD,Negeri,275,Wonokromo,-7.279891,112.746191
+SK0129,SMA Negeri Sawahan 129,SMA,Negeri,535,Sawahan,-7.248297,112.725404
+SK0130,SD Negeri Tenggilis Mejoyo 130,SD,Negeri,159,Tenggilis Mejoyo,-7.332978,112.766176
+SK0131,SD Negeri Wonocolo 131,SD,Negeri,319,Wonocolo,-7.305648,112.763866
+SK0132,SMP Negeri Sambikerep 132,SMP,Negeri,404,Sambikerep,-7.268537,112.638421
+SK0133,SD Swasta Sambikerep 133,SD,Swasta,160,Sambikerep,-7.267389,112.667163
+SK0134,SD Swasta Sambikerep 134,SD,Swasta,284,Sambikerep,-7.257333,112.657987
+SK0135,SD Swasta Lakarsantri 135,SD,Swasta,382,Lakarsantri,-7.329069,112.659171
+SK0136,SD Swasta Tenggilis Mejoyo 136,SD,Swasta,233,Tenggilis Mejoyo,-7.312984,112.761178
+SK0137,SD Swasta Gunung Anyar 137,SD,Swasta,209,Gunung Anyar,-7.331629,112.814322
+SK0138,SMP Negeri Rungkut 138,SMP,Negeri,461,Rungkut,-7.330841,112.779363
+SK0139,SMP Swasta Pabean Cantian 139,SMP,Swasta,541,Pabean Cantian,-7.220692,112.748877
+SK0140,SMP Negeri Sukolilo 140,SMP,Negeri,400,Sukolilo,-7.30512,112.77982
+SK0141,SD Negeri Sukolilo 141,SD,Negeri,273,Sukolilo,-7.292112,112.821983
+SK0142,SMK Swasta Mulyorejo 142,SMK,Swasta,596,Mulyorejo,-7.247783,112.810553
+SK0143,SMP Negeri Jambangan 143,SMP,Negeri,718,Jambangan,-7.346467,112.728898
+SK0144,SD Negeri Krembangan 144,SD,Negeri,461,Krembangan,-7.238651,112.7174
+SK0145,SD Swasta Bubutan 145,SD,Swasta,95,Bubutan,-7.247739,112.712283
+SK0146,SMA Swasta Jambangan 146,SMA,Swasta,542,Jambangan,-7.332949,112.719816
+SK0147,SD Negeri Wiyung 147,SD,Negeri,240,Wiyung,-7.290931,112.696961
+SK0148,SMK Swasta Karang Pilang 148,SMK,Swasta,555,Karang Pilang,-7.325371,112.716363
+SK0149,SMA Negeri Wiyung 149,SMA,Negeri,549,Wiyung,-7.322246,112.714161
+SK0150,SMA Swasta Simokerto 150,SMA,Swasta,380,Simokerto,-7.228584,112.774359
+SK0151,SMP Negeri Dukuh Pakis 151,SMP,Negeri,713,Dukuh Pakis,-7.309743,112.709657
+SK0152,SD Negeri Mulyorejo 152,SD,Negeri,370,Mulyorejo,-7.241715,112.764567
+SK0153,SMP Swasta Bubutan 153,SMP,Swasta,343,Bubutan,-7.246347,112.720699
+SK0154,SMA Negeri Wiyung 154,SMA,Negeri,250,Wiyung,-7.287346,112.704912
+SK0155,SMA Swasta Wonocolo 155,SMA,Swasta,631,Wonocolo,-7.30989,112.723339
+SK0156,SMA Negeri Gubeng 156,SMA,Negeri,235,Gubeng,-7.251443,112.761062
+SK0157,SD Negeri Wiyung 157,SD,Negeri,311,Wiyung,-7.300731,112.707863
+SK0158,SD Negeri Kenjeran 158,SD,Negeri,353,Kenjeran,-7.255907,112.785983
+SK0159,SD Negeri Tandes 159,SD,Negeri,235,Tandes,-7.266082,112.659257
+SK0160,SD Negeri Sambikerep 160,SD,Negeri,200,Sambikerep,-7.27083,112.669812
+SK0161,SMK Negeri Asemrowo 161,SMK,Negeri,556,Asemrowo,-7.210827,112.727064
+SK0162,SD Swasta Sambikerep 162,SD,Swasta,440,Sambikerep,-7.275456,112.648263
+SK0163,SD Negeri Jambangan 163,SD,Negeri,238,Jambangan,-7.31657,112.714181
+SK0164,SD Swasta Sukolilo 164,SD,Swasta,256,Sukolilo,-7.295641,112.787441
+SK0165,SMK Swasta Sambikerep 165,SMK,Swasta,1090,Sambikerep,-7.274954,112.659912
+SK0166,SD Swasta Wonocolo 166,SD,Swasta,108,Wonocolo,-7.319648,112.734731
+SK0167,SD Negeri Semampir 167,SD,Negeri,326,Semampir,-7.259184,112.753861
+SK0168,SMK Swasta Bulak 168,SMK,Swasta,513,Bulak,-7.233382,112.800062
+SK0169,SD Negeri Sambikerep 169,SD,Negeri,403,Sambikerep,-7.27634,112.653672
+SK0170,SMP Swasta Tandes 170,SMP,Swasta,536,Tandes,-7.284652,112.659886
+SK0171,SD Swasta Tegalsari 171,SD,Swasta,595,Tegalsari,-7.281186,112.724811
+SK0172,SD Swasta Tandes 172,SD,Swasta,537,Tandes,-7.23878,112.689192
+SK0173,SMA Swasta Wiyung 173,SMA,Swasta,257,Wiyung,-7.289559,112.704814
+SK0174,SD Negeri Krembangan 174,SD,Negeri,302,Krembangan,-7.255719,112.728928
+SK0175,SD Negeri Simokerto 175,SD,Negeri,250,Simokerto,-7.255343,112.742835
+SK0176,SMK Negeri Sawahan 176,SMK,Negeri,401,Sawahan,-7.246986,112.728091
+SK0177,SMP Negeri Bubutan 177,SMP,Negeri,406,Bubutan,-7.278556,112.737217
+SK0178,SD Negeri Benowo 178,SD,Negeri,342,Benowo,-7.205659,112.650877
+SK0179,SD Negeri Dukuh Pakis 179,SD,Negeri,484,Dukuh Pakis,-7.297695,112.70784
+SK0180,SD Negeri Sukomanunggal 180,SD,Negeri,282,Sukomanunggal,-7.230695,112.722108
+SK0181,SMK Negeri Lakarsantri 181,SMK,Negeri,564,Lakarsantri,-7.328515,112.654319
+SK0182,SD Swasta Kenjeran 182,SD,Swasta,347,Kenjeran,-7.272539,112.779866
+SK0183,SD Negeri Kenjeran 183,SD,Negeri,587,Kenjeran,-7.24651,112.791365
+SK0184,SMP Negeri Genteng 184,SMP,Negeri,414,Genteng,-7.249592,112.749523
+SK0185,SMK Swasta Gubeng 185,SMK,Swasta,733,Gubeng,-7.243605,112.736171
+SK0186,SMK Negeri Tegalsari 186,SMK,Negeri,523,Tegalsari,-7.254927,112.752222
+SK0187,SD Swasta Asemrowo 187,SD,Swasta,459,Asemrowo,-7.226671,112.702938
+SK0188,SD Negeri Wiyung 188,SD,Negeri,268,Wiyung,-7.301301,112.701132
+SK0189,SD Negeri Karang Pilang 189,SD,Negeri,401,Karang Pilang,-7.317232,112.707886
+SK0190,SMA Negeri Mulyorejo 190,SMA,Negeri,606,Mulyorejo,-7.252599,112.796591
+SK0191,SMP Swasta Tenggilis Mejoyo 191,SMP,Swasta,687,Tenggilis Mejoyo,-7.327547,112.754508
+SK0192,SD Negeri Asemrowo 192,SD,Negeri,472,Asemrowo,-7.240387,112.711787
+SK0193,SMA Negeri Pabean Cantian 193,SMA,Negeri,699,Pabean Cantian,-7.241459,112.741016
+SK0194,SMP Negeri Sawahan 194,SMP,Negeri,550,Sawahan,-7.271954,112.766948
+SK0195,SD Negeri Pakal 195,SD,Negeri,140,Pakal,-7.206055,112.69437
+SK0196,SMA Swasta Wonocolo 196,SMA,Swasta,748,Wonocolo,-7.308033,112.754536
+SK0197,SD Swasta Gubeng 197,SD,Swasta,174,Gubeng,-7.253767,112.747222
+SK0198,SD Negeri Gunung Anyar 198,SD,Negeri,409,Gunung Anyar,-7.33584,112.794719
+SK0199,SD Negeri Tegalsari 199,SD,Negeri,316,Tegalsari,-7.281981,112.734487
+SK0200,SMP Negeri Tenggilis Mejoyo 200,SMP,Negeri,523,Tenggilis Mejoyo,-7.309937,112.767788
+SK0201,SMK Negeri Simokerto 201,SMK,Negeri,680,Simokerto,-7.248468,112.746567
+SK0202,SMP Negeri Bulak 202,SMP,Negeri,621,Bulak,-7.233429,112.780875
+SK0203,SD Negeri Bulak 203,SD,Negeri,387,Bulak,-7.222292,112.789896
+SK0204,SMK Swasta Rungkut 204,SMK,Swasta,847,Rungkut,-7.327216,112.770031
+SK0205,SMP Swasta Asemrowo 205,SMP,Swasta,465,Asemrowo,-7.228227,112.698236
+SK0206,SD Negeri Wonokromo 206,SD,Negeri,507,Wonokromo,-7.289091,112.727083
+SK0207,SD Swasta Krembangan 207,SD,Swasta,368,Krembangan,-7.239428,112.712455
+SK0208,SD Negeri Mulyorejo 208,SD,Negeri,299,Mulyorejo,-7.26729,112.767147
+SK0209,SMP Swasta Sambikerep 209,SMP,Swasta,637,Sambikerep,-7.253926,112.665311
+SK0210,SMP Negeri Mulyorejo 210,SMP,Negeri,501,Mulyorejo,-7.272557,112.791014
+SK0211,SMP Negeri Tambaksari 211,SMP,Negeri,674,Tambaksari,-7.242304,112.746661
+SK0212,SD Negeri Jambangan 212,SD,Negeri,244,Jambangan,-7.31871,112.727429
+SK0213,SMK Swasta Jambangan 213,SMK,Swasta,635,Jambangan,-7.327381,112.738562
+SK0214,SD Negeri Lakarsantri 214,SD,Negeri,409,Lakarsantri,-7.324757,112.64906
+SK0215,SMA Negeri Tegalsari 215,SMA,Negeri,302,Tegalsari,-7.258497,112.719339
+SK0216,SMK Negeri Bubutan 216,SMK,Negeri,713,Bubutan,-7.278897,112.726103
+SK0217,SD Negeri Lakarsantri 217,SD,Negeri,387,Lakarsantri,-7.322253,112.675208
+SK0218,SMK Negeri Sukolilo 218,SMK,Negeri,542,Sukolilo,-7.285387,112.788072
+SK0219,SD Negeri Sambikerep 219,SD,Negeri,447,Sambikerep,-7.285033,112.664305
+SK0220,SMP Negeri Bubutan 220,SMP,Negeri,767,Bubutan,-7.28804,112.73287
+SK0221,SD Swasta Kenjeran 221,SD,Swasta,281,Kenjeran,-7.246072,112.796369
+SK0222,SMP Swasta Gayungan 222,SMP,Swasta,557,Gayungan,-7.333792,112.727489
+SK0223,SMP Negeri Tambaksari 223,SMP,Negeri,276,Tambaksari,-7.260058,112.748496
+SK0224,SMP Swasta Semampir 224,SMP,Swasta,164,Semampir,-7.227612,112.743902
+SK0225,SD Negeri Dukuh Pakis 225,SD,Negeri,184,Dukuh Pakis,-7.307632,112.713917
+SK0226,SD Negeri Bubutan 226,SD,Negeri,263,Bubutan,-7.240778,112.742426
+SK0227,SMP Swasta Bubutan 227,SMP,Swasta,670,Bubutan,-7.25334,112.722672
+SK0228,SMA Swasta Tenggilis Mejoyo 228,SMA,Swasta,731,Tenggilis Mejoyo,-7.338782,112.766791
+SK0229,SD Swasta Semampir 229,SD,Swasta,60,Semampir,-7.238959,112.735746
+SK0230,SD Swasta Tegalsari 230,SD,Swasta,382,Tegalsari,-7.277783,112.731389
+SK0231,SMA Swasta Gubeng 231,SMA,Swasta,294,Gubeng,-7.26778,112.733594
+SK0232,SD Negeri Krembangan 232,SD,Negeri,509,Krembangan,-7.255795,112.711682
+SK0233,SD Negeri Semampir 233,SD,Negeri,216,Semampir,-7.242926,112.756306
+SK0234,SMK Swasta Tenggilis Mejoyo 234,SMK,Swasta,1043,Tenggilis Mejoyo,-7.325935,112.773739
+SK0235,SMK Negeri Dukuh Pakis 235,SMK,Negeri,442,Dukuh Pakis,-7.306587,112.736294
+SK0236,SD Negeri Bubutan 236,SD,Negeri,447,Bubutan,-7.256312,112.713268
+SK0237,SMA Swasta Simokerto 237,SMA,Swasta,992,Simokerto,-7.246972,112.763885
+SK0238,SD Negeri Pakal 238,SD,Negeri,412,Pakal,-7.211565,112.688745
+SK0239,SMA Negeri Tenggilis Mejoyo 239,SMA,Negeri,673,Tenggilis Mejoyo,-7.318001,112.754001
+SK0240,SMA Swasta Pakal 240,SMA,Swasta,891,Pakal,-7.212621,112.678978

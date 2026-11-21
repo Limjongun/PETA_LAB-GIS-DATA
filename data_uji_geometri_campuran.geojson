@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "name": "data_uji_geometri_campuran",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Titik uji 1 (valid)",
+        "tipe": "titik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7378,
+          -7.2459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Titik uji dengan Z (valid)",
+        "tipe": "titik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74,
+          -7.26,
+          5.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Garis uji (valid)",
+        "tipe": "garis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.7,
+            -7.25
+          ],
+          [
+            112.72,
+            -7.26
+          ],
+          [
+            112.74,
+            -7.25
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Poligon kotak (valid)",
+        "tipe": "poligon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.7,
+              -7.3
+            ],
+            [
+              112.71,
+              -7.3
+            ],
+            [
+              112.71,
+              -7.31
+            ],
+            [
+              112.7,
+              -7.31
+            ],
+            [
+              112.7,
+              -7.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Poligon bowtie (RUSAK: garis saling silang)",
+        "tipe": "poligon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.72,
+              -7.3
+            ],
+            [
+              112.74,
+              -7.32
+            ],
+            [
+              112.74,
+              -7.3
+            ],
+            [
+              112.72,
+              -7.32
+            ],
+            [
+              112.72,
+              -7.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Lat/lon tertukar (RUSAK: lintang > 90)",
+        "tipe": "titik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.26,
+          112.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Tanpa geometri (KOSONG)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75,
+          -7.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MultiPoligon (valid, dua bagian)",
+        "tipe": "poligon"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                112.66,
+                -7.24
+              ],
+              [
+                112.67,
+                -7.24
+              ],
+              [
+                112.67,
+                -7.25
+              ],
+              [
+                112.66,
+                -7.25
+              ],
+              [
+                112.66,
+                -7.24
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                112.68,
+                -7.24
+              ],
+              [
+                112.69,
+                -7.24
+              ],
+              [
+                112.69,
+                -7.25
+              ],
+              [
+                112.68,
+                -7.25
+              ],
+              [
+                112.68,
+                -7.24
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Titik di luar Surabaya (valid, tapi jauh)",
+        "tipe": "titik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4203,
+          -6.9932
+        ]
+      }
+    }
+  ]
+}

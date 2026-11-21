@@ -1,0 +1,38 @@
+{
+  "app_name": "PetaLab",
+  "tagline": "Seperti QGIS versi ramah pemula, di browser, dengan Python & Machine Learning di belakangnya.",
+  "nav": {
+    "home": "Beranda",
+    "dashboard": "Dashboard",
+    "map": "Peta",
+    "data": "Data",
+    "table": "Tabel",
+    "process": "Proses",
+    "earth": "Katalog Bumi",
+    "model": "Model",
+    "history": "Riwayat",
+    "export": "Ekspor",
+    "settings": "Pengaturan"
+  },
+  "modes": {
+    "pemula": "Mode Pemula",
+    "lanjut": "Mode Lanjut"
+  },
+  "home": {
+    "new_project": "+ Proyek Baru",
+    "try_sample": "Coba Data Contoh Surabaya",
+    "what_to_do": "Apa yang ingin kamu lakukan hari ini?",
+    "system_status": "Status Sistem & Mesin Spasial",
+    "recipes": {
+      "thematic": "Membuat peta tematik dari data wilayah",
+      "join_excel": "Menggabungkan data Excel/CSV ke peta",
+      "count_points": "Menghitung jumlah titik per wilayah",
+      "nearest": "Mencari lokasi terdekat & jaraknya",
+      "landcover": "Mengklasifikasi tutupan lahan dari citra",
+      "predict_ml": "Memprediksi nilai di peta (Machine Learning)"
+    }
+  },
+  "empty": {
+    "no_layer": "Belum ada data di proyek ini. Unggah file atau muat Data Contoh Surabaya untuk mulai eksplorasi."
+  }
+}

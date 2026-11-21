@@ -1,0 +1,38 @@
+{
+  "app_name": "PetaLab",
+  "tagline": "Beginner-friendly local Web GIS with Python & Spatial Machine Learning built-in.",
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "map": "Map",
+    "data": "Data",
+    "table": "Table",
+    "process": "Process",
+    "earth": "Earth Catalog",
+    "model": "Model",
+    "history": "History",
+    "export": "Export",
+    "settings": "Settings"
+  },
+  "modes": {
+    "pemula": "Beginner Mode",
+    "lanjut": "Advanced Mode"
+  },
+  "home": {
+    "new_project": "+ New Project",
+    "try_sample": "Try Surabaya Sample Data",
+    "what_to_do": "What would you like to do today?",
+    "system_status": "System & Spatial Engine Status",
+    "recipes": {
+      "thematic": "Create a thematic choropleth map",
+      "join_excel": "Join Excel/CSV table to map polygons",
+      "count_points": "Count points inside each region",
+      "nearest": "Find nearest facilities & distance",
+      "landcover": "Classify land cover from satellite raster",
+      "predict_ml": "Predict spatial values (Machine Learning)"
+    }
+  },
+  "empty": {
+    "no_layer": "No layers in this project yet. Upload a file or load the Surabaya Sample Data to get started."
+  }
+}

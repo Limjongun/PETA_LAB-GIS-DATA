@@ -1,0 +1,4326 @@
+{
+  "type": "FeatureCollection",
+  "name": "sekolah_surabaya",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0001",
+        "nama": "SD Swasta Semampir 001",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 321,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.772366,
+          -7.232124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0002",
+        "nama": "SD Negeri Rungkut 002",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 430,
+        "kecamatan": "Rungkut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.782869,
+          -7.305918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0003",
+        "nama": "SMP Negeri Pakal 003",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 424,
+        "kecamatan": "Pakal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.669734,
+          -7.233332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0004",
+        "nama": "SMA Negeri Gunung Anyar 004",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 663,
+        "kecamatan": "Gunung Anyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.779357,
+          -7.333419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0005",
+        "nama": "SD Negeri Karang Pilang 005",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 324,
+        "kecamatan": "Karang Pilang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.696354,
+          -7.331752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0006",
+        "nama": "SMP Swasta Kenjeran 006",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 588,
+        "kecamatan": "Kenjeran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.774245,
+          -7.242589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0007",
+        "nama": "SD Negeri Wonokromo 007",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 394,
+        "kecamatan": "Wonokromo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.748568,
+          -7.314329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0008",
+        "nama": "SD Swasta Sukolilo 008",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 207,
+        "kecamatan": "Sukolilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.761026,
+          -7.285368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0009",
+        "nama": "SD Negeri Wiyung 009",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 292,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.702078,
+          -7.28671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0010",
+        "nama": "SMA Swasta Genteng 010",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 701,
+        "kecamatan": "Genteng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.742478,
+          -7.272373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0011",
+        "nama": "SD Swasta Semampir 011",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 376,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.773716,
+          -7.22867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0012",
+        "nama": "SD Negeri Rungkut 012",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 309,
+        "kecamatan": "Rungkut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.777255,
+          -7.313733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0013",
+        "nama": "SD Negeri Tegalsari 013",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 311,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.754575,
+          -7.26219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0014",
+        "nama": "SD Negeri Karang Pilang 014",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 239,
+        "kecamatan": "Karang Pilang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.693187,
+          -7.313306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0015",
+        "nama": "SD Negeri Dukuh Pakis 015",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 238,
+        "kecamatan": "Dukuh Pakis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.701205,
+          -7.295424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0016",
+        "nama": "SD Swasta Krembangan 016",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 198,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.734591,
+          -7.229465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0017",
+        "nama": "SD Negeri Tambaksari 017",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 181,
+        "kecamatan": "Tambaksari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.755062,
+          -7.269168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0018",
+        "nama": "SMP Negeri Krembangan 018",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 508,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.739132,
+          -7.238635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0019",
+        "nama": "SD Swasta Tenggilis Mejoyo 019",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 262,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.758188,
+          -7.331541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0020",
+        "nama": "SD Negeri Bulak 020",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 479,
+        "kecamatan": "Bulak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.788392,
+          -7.209501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0021",
+        "nama": "SD Negeri Sukomanunggal 021",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 427,
+        "kecamatan": "Sukomanunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72094,
+          -7.218122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0022",
+        "nama": "SMP Negeri Semampir 022",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 377,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.761671,
+          -7.243703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0023",
+        "nama": "SMA Negeri Tenggilis Mejoyo 023",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 733,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.787401,
+          -7.317962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0024",
+        "nama": "SMK Swasta Wonocolo 024",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 680,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.750589,
+          -7.31031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0025",
+        "nama": "SMK Negeri Sambikerep 025",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 538,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.661961,
+          -7.2702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0026",
+        "nama": "SMP Swasta Dukuh Pakis 026",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 194,
+        "kecamatan": "Dukuh Pakis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.735957,
+          -7.284428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0027",
+        "nama": "SD Negeri Sawahan 027",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 144,
+        "kecamatan": "Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.735534,
+          -7.259046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0028",
+        "nama": "SMP Negeri Simokerto 028",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 618,
+        "kecamatan": "Simokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.748328,
+          -7.252558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0029",
+        "nama": "SD Negeri Gubeng 029",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 179,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.770006,
+          -7.270614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0030",
+        "nama": "SD Swasta Benowo 030",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 327,
+        "kecamatan": "Benowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.632948,
+          -7.223276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0031",
+        "nama": "SD Negeri Gubeng 031",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 145,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.762822,
+          -7.269994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0032",
+        "nama": "SMA Swasta Gubeng 032",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 387,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.756243,
+          -7.263318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0033",
+        "nama": "SD Negeri Lakarsantri 033",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 344,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.652739,
+          -7.323723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0034",
+        "nama": "SD Negeri Benowo 034",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 187,
+        "kecamatan": "Benowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.62957,
+          -7.220343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0035",
+        "nama": "SMP Negeri Genteng 035",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 555,
+        "kecamatan": "Genteng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.750049,
+          -7.258277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0036",
+        "nama": "SMK Negeri Tandes 036",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 559,
+        "kecamatan": "Tandes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.679271,
+          -7.215225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0037",
+        "nama": "SD Negeri Tegalsari 037",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 321,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.720159,
+          -7.279211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0038",
+        "nama": "SD Negeri Wiyung 038",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 391,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73373,
+          -7.32876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0039",
+        "nama": "SMK Swasta Gunung Anyar 039",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 546,
+        "kecamatan": "Gunung Anyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.794236,
+          -7.321719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0040",
+        "nama": "SMA Negeri Simokerto 040",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 219,
+        "kecamatan": "Simokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.779237,
+          -7.255638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0041",
+        "nama": "SMA Negeri Sambikerep 041",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 535,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.633956,
+          -7.267054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0042",
+        "nama": "SD Swasta Pakal 042",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 356,
+        "kecamatan": "Pakal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.684912,
+          -7.20836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0043",
+        "nama": "SD Swasta Sawahan 043",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 100,
+        "kecamatan": "Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.718106,
+          -7.238042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0044",
+        "nama": "SMP Negeri Benowo 044",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 386,
+        "kecamatan": "Benowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.629175,
+          -7.238825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0045",
+        "nama": "SD Swasta Wonokromo 045",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 285,
+        "kecamatan": "Wonokromo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.750161,
+          -7.291027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0046",
+        "nama": "SD Swasta Mulyorejo 046",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 438,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.793449,
+          -7.251669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0047",
+        "nama": "SMK Negeri Sambikerep 047",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 659,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.683208,
+          -7.261431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0048",
+        "nama": "SD Negeri Wonocolo 048",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 225,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.747389,
+          -7.324803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0049",
+        "nama": "SMP Swasta Jambangan 049",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 468,
+        "kecamatan": "Jambangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.732443,
+          -7.318738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0050",
+        "nama": "SD Swasta Simokerto 050",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 233,
+        "kecamatan": "Simokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.774094,
+          -7.248787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0051",
+        "nama": "SMP Negeri Sukomanunggal 051",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 268,
+        "kecamatan": "Sukomanunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.718892,
+          -7.25368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0052",
+        "nama": "SMP Negeri Gunung Anyar 052",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 708,
+        "kecamatan": "Gunung Anyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.794686,
+          -7.336553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0053",
+        "nama": "SD Negeri Semampir 053",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 512,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.750508,
+          -7.238241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0054",
+        "nama": "SD Swasta Sukomanunggal 054",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 253,
+        "kecamatan": "Sukomanunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.711817,
+          -7.247423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0055",
+        "nama": "SMK Swasta Tenggilis Mejoyo 055",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 225,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.754099,
+          -7.324432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0056",
+        "nama": "SD Negeri Dukuh Pakis 056",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 288,
+        "kecamatan": "Dukuh Pakis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71019,
+          -7.262576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0057",
+        "nama": "SMK Negeri Benowo 057",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 620,
+        "kecamatan": "Benowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.641186,
+          -7.220611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0058",
+        "nama": "SMK Swasta Lakarsantri 058",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 177,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.658633,
+          -7.312822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0059",
+        "nama": "SMK Swasta Gayungan 059",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 655,
+        "kecamatan": "Gayungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.732791,
+          -7.331423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0060",
+        "nama": "SD Swasta Wonokromo 060",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 219,
+        "kecamatan": "Wonokromo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.729376,
+          -7.30055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0061",
+        "nama": "SMA Negeri Gayungan 061",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 829,
+        "kecamatan": "Gayungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.737509,
+          -7.346679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0062",
+        "nama": "SD Swasta Mulyorejo 062",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 523,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.781436,
+          -7.257714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0063",
+        "nama": "SD Negeri Simokerto 063",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 512,
+        "kecamatan": "Simokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.745872,
+          -7.270084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0064",
+        "nama": "SMA Swasta Krembangan 064",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 836,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.726378,
+          -7.239886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0065",
+        "nama": "SMK Negeri Wonocolo 065",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 785,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.751655,
+          -7.313099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0066",
+        "nama": "SMA Negeri Sukomanunggal 066",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 691,
+        "kecamatan": "Sukomanunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.713412,
+          -7.23608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0067",
+        "nama": "SMP Negeri Wonocolo 067",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 477,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75502,
+          -7.311575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0068",
+        "nama": "SMK Swasta Sukomanunggal 068",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 498,
+        "kecamatan": "Sukomanunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72605,
+          -7.237835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0069",
+        "nama": "SMP Negeri Tenggilis Mejoyo 069",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 352,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.758084,
+          -7.29656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0070",
+        "nama": "SMA Negeri Jambangan 070",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 397,
+        "kecamatan": "Jambangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.713874,
+          -7.322469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0071",
+        "nama": "SD Swasta Genteng 071",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 213,
+        "kecamatan": "Genteng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.739105,
+          -7.293755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0072",
+        "nama": "SMK Negeri Rungkut 072",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 498,
+        "kecamatan": "Rungkut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.801709,
+          -7.308985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0073",
+        "nama": "SMP Negeri Sawahan 073",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 371,
+        "kecamatan": "Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.706948,
+          -7.251342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0074",
+        "nama": "SMA Swasta Tandes 074",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 630,
+        "kecamatan": "Tandes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.682322,
+          -7.262333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0075",
+        "nama": "SD Swasta Sawahan 075",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 321,
+        "kecamatan": "Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.733669,
+          -7.272237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0076",
+        "nama": "SD Swasta Asemrowo 076",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 393,
+        "kecamatan": "Asemrowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.687989,
+          -7.241212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0077",
+        "nama": "SD Swasta Mulyorejo 077",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 379,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.778631,
+          -7.24619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0078",
+        "nama": "SMA Swasta Semampir 078",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 565,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.737396,
+          -7.222723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0079",
+        "nama": "SD Negeri Tambaksari 079",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 450,
+        "kecamatan": "Tambaksari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.767537,
+          -7.257684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0080",
+        "nama": "SD Negeri Wiyung 080",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 346,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.712954,
+          -7.317907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0081",
+        "nama": "SMP Swasta Rungkut 081",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 659,
+        "kecamatan": "Rungkut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.778571,
+          -7.32462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0082",
+        "nama": "SMK Negeri Tegalsari 082",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 367,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.751678,
+          -7.257508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0083",
+        "nama": "SD Negeri Mulyorejo 083",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 196,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.770904,
+          -7.279161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0084",
+        "nama": "SD Swasta Gunung Anyar 084",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 299,
+        "kecamatan": "Gunung Anyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.807605,
+          -7.338744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0085",
+        "nama": "SMP Negeri Wonocolo 085",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 510,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.740518,
+          -7.292562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0086",
+        "nama": "SD Negeri Lakarsantri 086",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 280,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.671256,
+          -7.299716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0087",
+        "nama": "SMK Negeri Krembangan 087",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 476,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.725049,
+          -7.260783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0088",
+        "nama": "SMK Negeri Asemrowo 088",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 408,
+        "kecamatan": "Asemrowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.717328,
+          -7.244992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0089",
+        "nama": "SD Swasta Tegalsari 089",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 174,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.733155,
+          -7.275064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0090",
+        "nama": "SMP Negeri Lakarsantri 090",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 596,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.643862,
+          -7.331175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0091",
+        "nama": "SD Negeri Sukomanunggal 091",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 428,
+        "kecamatan": "Sukomanunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.725839,
+          -7.229966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0092",
+        "nama": "SMP Negeri Sambikerep 092",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 508,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.67105,
+          -7.292314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0093",
+        "nama": "SD Negeri Gayungan 093",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 343,
+        "kecamatan": "Gayungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.734526,
+          -7.319232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0094",
+        "nama": "SMK Negeri Tambaksari 094",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 408,
+        "kecamatan": "Tambaksari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.747252,
+          -7.24702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0095",
+        "nama": "SMP Swasta Sukomanunggal 095",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 336,
+        "kecamatan": "Sukomanunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.717399,
+          -7.227927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0096",
+        "nama": "SD Negeri Tambaksari 096",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 160,
+        "kecamatan": "Tambaksari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.744737,
+          -7.245008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0097",
+        "nama": "SD Swasta Gubeng 097",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 247,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.744806,
+          -7.268592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0098",
+        "nama": "SMP Swasta Gayungan 098",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 207,
+        "kecamatan": "Gayungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.713297,
+          -7.333711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0099",
+        "nama": "SMK Negeri Gayungan 099",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 805,
+        "kecamatan": "Gayungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.720372,
+          -7.327933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0100",
+        "nama": "SMK Negeri Krembangan 100",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 129,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.711533,
+          -7.25743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0101",
+        "nama": "SD Swasta Gubeng 101",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 409,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77617,
+          -7.278432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0102",
+        "nama": "SD Negeri Tandes 102",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 541,
+        "kecamatan": "Tandes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.661147,
+          -7.260994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0103",
+        "nama": "SD Swasta Semampir 103",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 343,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.773136,
+          -7.243792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0104",
+        "nama": "SMP Negeri Tegalsari 104",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 421,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.744633,
+          -7.263876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0105",
+        "nama": "SD Swasta Semampir 105",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 194,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.738725,
+          -7.241977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0106",
+        "nama": "SD Negeri Gunung Anyar 106",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 391,
+        "kecamatan": "Gunung Anyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.792925,
+          -7.330903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0107",
+        "nama": "SD Negeri Mulyorejo 107",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 235,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.810634,
+          -7.271085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0108",
+        "nama": "SMP Negeri Gayungan 108",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 538,
+        "kecamatan": "Gayungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.743406,
+          -7.33011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0109",
+        "nama": "SMA Negeri Sawahan 109",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 1035,
+        "kecamatan": "Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.748845,
+          -7.25244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0110",
+        "nama": "SMP Negeri Pabean Cantian 110",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 617,
+        "kecamatan": "Pabean Cantian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.740133,
+          -7.253917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0111",
+        "nama": "SMA Negeri Mulyorejo 111",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 613,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.782122,
+          -7.245481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0112",
+        "nama": "SMP Negeri Pabean Cantian 112",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 688,
+        "kecamatan": "Pabean Cantian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.736979,
+          -7.22003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0113",
+        "nama": "SMA Negeri Kenjeran 113",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 559,
+        "kecamatan": "Kenjeran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.791138,
+          -7.234615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0114",
+        "nama": "SMK Swasta Rungkut 114",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 722,
+        "kecamatan": "Rungkut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.799646,
+          -7.307141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0115",
+        "nama": "SMA Swasta Gunung Anyar 115",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 402,
+        "kecamatan": "Gunung Anyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.803163,
+          -7.341309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0116",
+        "nama": "SD Negeri Gubeng 116",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 363,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.745173,
+          -7.266928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0117",
+        "nama": "SMK Negeri Benowo 117",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 583,
+        "kecamatan": "Benowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.645946,
+          -7.232098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0118",
+        "nama": "SD Negeri Wiyung 118",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 224,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.711161,
+          -7.314356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0119",
+        "nama": "SD Swasta Tenggilis Mejoyo 119",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 113,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.756179,
+          -7.31489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0120",
+        "nama": "SMA Negeri Semampir 120",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 604,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.729447,
+          -7.227723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0121",
+        "nama": "SMK Negeri Bubutan 121",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 646,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.736673,
+          -7.278318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0122",
+        "nama": "SD Swasta Pakal 122",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 242,
+        "kecamatan": "Pakal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.696489,
+          -7.219788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0123",
+        "nama": "SD Swasta Lakarsantri 123",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 178,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.67035,
+          -7.333221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0124",
+        "nama": "SD Negeri Genteng 124",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 295,
+        "kecamatan": "Genteng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.761876,
+          -7.269532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0125",
+        "nama": "SD Negeri Gayungan 125",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 242,
+        "kecamatan": "Gayungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.735883,
+          -7.335135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0126",
+        "nama": "SMK Negeri Sukolilo 126",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 957,
+        "kecamatan": "Sukolilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.804856,
+          -7.289422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0127",
+        "nama": "SMP Swasta Tandes 127",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 641,
+        "kecamatan": "Tandes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.648343,
+          -7.263712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0128",
+        "nama": "SD Negeri Wonokromo 128",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 275,
+        "kecamatan": "Wonokromo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.746191,
+          -7.279891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0129",
+        "nama": "SMA Negeri Sawahan 129",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 535,
+        "kecamatan": "Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.725404,
+          -7.248297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0130",
+        "nama": "SD Negeri Tenggilis Mejoyo 130",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 159,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.766176,
+          -7.332978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0131",
+        "nama": "SD Negeri Wonocolo 131",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 319,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.763866,
+          -7.305648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0132",
+        "nama": "SMP Negeri Sambikerep 132",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 404,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.638421,
+          -7.268537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0133",
+        "nama": "SD Swasta Sambikerep 133",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 160,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.667163,
+          -7.267389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0134",
+        "nama": "SD Swasta Sambikerep 134",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 284,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.657987,
+          -7.257333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0135",
+        "nama": "SD Swasta Lakarsantri 135",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 382,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.659171,
+          -7.329069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0136",
+        "nama": "SD Swasta Tenggilis Mejoyo 136",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 233,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.761178,
+          -7.312984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0137",
+        "nama": "SD Swasta Gunung Anyar 137",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 209,
+        "kecamatan": "Gunung Anyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.814322,
+          -7.331629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0138",
+        "nama": "SMP Negeri Rungkut 138",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 461,
+        "kecamatan": "Rungkut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.779363,
+          -7.330841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0139",
+        "nama": "SMP Swasta Pabean Cantian 139",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 541,
+        "kecamatan": "Pabean Cantian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.748877,
+          -7.220692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0140",
+        "nama": "SMP Negeri Sukolilo 140",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 400,
+        "kecamatan": "Sukolilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77982,
+          -7.30512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0141",
+        "nama": "SD Negeri Sukolilo 141",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 273,
+        "kecamatan": "Sukolilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.821983,
+          -7.292112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0142",
+        "nama": "SMK Swasta Mulyorejo 142",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 596,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.810553,
+          -7.247783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0143",
+        "nama": "SMP Negeri Jambangan 143",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 718,
+        "kecamatan": "Jambangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.728898,
+          -7.346467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0144",
+        "nama": "SD Negeri Krembangan 144",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 461,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7174,
+          -7.238651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0145",
+        "nama": "SD Swasta Bubutan 145",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 95,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.712283,
+          -7.247739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0146",
+        "nama": "SMA Swasta Jambangan 146",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 542,
+        "kecamatan": "Jambangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.719816,
+          -7.332949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0147",
+        "nama": "SD Negeri Wiyung 147",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 240,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.696961,
+          -7.290931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0148",
+        "nama": "SMK Swasta Karang Pilang 148",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 555,
+        "kecamatan": "Karang Pilang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.716363,
+          -7.325371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0149",
+        "nama": "SMA Negeri Wiyung 149",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 549,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.714161,
+          -7.322246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0150",
+        "nama": "SMA Swasta Simokerto 150",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 380,
+        "kecamatan": "Simokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.774359,
+          -7.228584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0151",
+        "nama": "SMP Negeri Dukuh Pakis 151",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 713,
+        "kecamatan": "Dukuh Pakis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.709657,
+          -7.309743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0152",
+        "nama": "SD Negeri Mulyorejo 152",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 370,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.764567,
+          -7.241715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0153",
+        "nama": "SMP Swasta Bubutan 153",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 343,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.720699,
+          -7.246347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0154",
+        "nama": "SMA Negeri Wiyung 154",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 250,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.704912,
+          -7.287346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0155",
+        "nama": "SMA Swasta Wonocolo 155",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 631,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.723339,
+          -7.30989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0156",
+        "nama": "SMA Negeri Gubeng 156",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 235,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.761062,
+          -7.251443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0157",
+        "nama": "SD Negeri Wiyung 157",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 311,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.707863,
+          -7.300731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0158",
+        "nama": "SD Negeri Kenjeran 158",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 353,
+        "kecamatan": "Kenjeran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.785983,
+          -7.255907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0159",
+        "nama": "SD Negeri Tandes 159",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 235,
+        "kecamatan": "Tandes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.659257,
+          -7.266082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0160",
+        "nama": "SD Negeri Sambikerep 160",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 200,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.669812,
+          -7.27083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0161",
+        "nama": "SMK Negeri Asemrowo 161",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 556,
+        "kecamatan": "Asemrowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.727064,
+          -7.210827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0162",
+        "nama": "SD Swasta Sambikerep 162",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 440,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.648263,
+          -7.275456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0163",
+        "nama": "SD Negeri Jambangan 163",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 238,
+        "kecamatan": "Jambangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.714181,
+          -7.31657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0164",
+        "nama": "SD Swasta Sukolilo 164",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 256,
+        "kecamatan": "Sukolilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.787441,
+          -7.295641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0165",
+        "nama": "SMK Swasta Sambikerep 165",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 1090,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.659912,
+          -7.274954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0166",
+        "nama": "SD Swasta Wonocolo 166",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 108,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.734731,
+          -7.319648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0167",
+        "nama": "SD Negeri Semampir 167",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 326,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.753861,
+          -7.259184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0168",
+        "nama": "SMK Swasta Bulak 168",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 513,
+        "kecamatan": "Bulak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.800062,
+          -7.233382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0169",
+        "nama": "SD Negeri Sambikerep 169",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 403,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.653672,
+          -7.27634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0170",
+        "nama": "SMP Swasta Tandes 170",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 536,
+        "kecamatan": "Tandes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.659886,
+          -7.284652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0171",
+        "nama": "SD Swasta Tegalsari 171",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 595,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.724811,
+          -7.281186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0172",
+        "nama": "SD Swasta Tandes 172",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 537,
+        "kecamatan": "Tandes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.689192,
+          -7.23878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0173",
+        "nama": "SMA Swasta Wiyung 173",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 257,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.704814,
+          -7.289559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0174",
+        "nama": "SD Negeri Krembangan 174",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 302,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.728928,
+          -7.255719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0175",
+        "nama": "SD Negeri Simokerto 175",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 250,
+        "kecamatan": "Simokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.742835,
+          -7.255343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0176",
+        "nama": "SMK Negeri Sawahan 176",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 401,
+        "kecamatan": "Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.728091,
+          -7.246986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0177",
+        "nama": "SMP Negeri Bubutan 177",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 406,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.737217,
+          -7.278556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0178",
+        "nama": "SD Negeri Benowo 178",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 342,
+        "kecamatan": "Benowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.650877,
+          -7.205659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0179",
+        "nama": "SD Negeri Dukuh Pakis 179",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 484,
+        "kecamatan": "Dukuh Pakis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70784,
+          -7.297695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0180",
+        "nama": "SD Negeri Sukomanunggal 180",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 282,
+        "kecamatan": "Sukomanunggal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.722108,
+          -7.230695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0181",
+        "nama": "SMK Negeri Lakarsantri 181",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 564,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.654319,
+          -7.328515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0182",
+        "nama": "SD Swasta Kenjeran 182",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 347,
+        "kecamatan": "Kenjeran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.779866,
+          -7.272539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0183",
+        "nama": "SD Negeri Kenjeran 183",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 587,
+        "kecamatan": "Kenjeran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.791365,
+          -7.24651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0184",
+        "nama": "SMP Negeri Genteng 184",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 414,
+        "kecamatan": "Genteng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.749523,
+          -7.249592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0185",
+        "nama": "SMK Swasta Gubeng 185",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 733,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.736171,
+          -7.243605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0186",
+        "nama": "SMK Negeri Tegalsari 186",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 523,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.752222,
+          -7.254927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0187",
+        "nama": "SD Swasta Asemrowo 187",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 459,
+        "kecamatan": "Asemrowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.702938,
+          -7.226671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0188",
+        "nama": "SD Negeri Wiyung 188",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 268,
+        "kecamatan": "Wiyung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.701132,
+          -7.301301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0189",
+        "nama": "SD Negeri Karang Pilang 189",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 401,
+        "kecamatan": "Karang Pilang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.707886,
+          -7.317232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0190",
+        "nama": "SMA Negeri Mulyorejo 190",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 606,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.796591,
+          -7.252599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0191",
+        "nama": "SMP Swasta Tenggilis Mejoyo 191",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 687,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.754508,
+          -7.327547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0192",
+        "nama": "SD Negeri Asemrowo 192",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 472,
+        "kecamatan": "Asemrowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.711787,
+          -7.240387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0193",
+        "nama": "SMA Negeri Pabean Cantian 193",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 699,
+        "kecamatan": "Pabean Cantian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.741016,
+          -7.241459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0194",
+        "nama": "SMP Negeri Sawahan 194",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 550,
+        "kecamatan": "Sawahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.766948,
+          -7.271954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0195",
+        "nama": "SD Negeri Pakal 195",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 140,
+        "kecamatan": "Pakal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69437,
+          -7.206055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0196",
+        "nama": "SMA Swasta Wonocolo 196",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 748,
+        "kecamatan": "Wonocolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.754536,
+          -7.308033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0197",
+        "nama": "SD Swasta Gubeng 197",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 174,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.747222,
+          -7.253767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0198",
+        "nama": "SD Negeri Gunung Anyar 198",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 409,
+        "kecamatan": "Gunung Anyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.794719,
+          -7.33584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0199",
+        "nama": "SD Negeri Tegalsari 199",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 316,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.734487,
+          -7.281981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0200",
+        "nama": "SMP Negeri Tenggilis Mejoyo 200",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 523,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.767788,
+          -7.309937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0201",
+        "nama": "SMK Negeri Simokerto 201",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 680,
+        "kecamatan": "Simokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.746567,
+          -7.248468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0202",
+        "nama": "SMP Negeri Bulak 202",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 621,
+        "kecamatan": "Bulak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.780875,
+          -7.233429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0203",
+        "nama": "SD Negeri Bulak 203",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 387,
+        "kecamatan": "Bulak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.789896,
+          -7.222292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0204",
+        "nama": "SMK Swasta Rungkut 204",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 847,
+        "kecamatan": "Rungkut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.770031,
+          -7.327216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0205",
+        "nama": "SMP Swasta Asemrowo 205",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 465,
+        "kecamatan": "Asemrowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.698236,
+          -7.228227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0206",
+        "nama": "SD Negeri Wonokromo 206",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 507,
+        "kecamatan": "Wonokromo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.727083,
+          -7.289091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0207",
+        "nama": "SD Swasta Krembangan 207",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 368,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.712455,
+          -7.239428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0208",
+        "nama": "SD Negeri Mulyorejo 208",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 299,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.767147,
+          -7.26729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0209",
+        "nama": "SMP Swasta Sambikerep 209",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 637,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.665311,
+          -7.253926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0210",
+        "nama": "SMP Negeri Mulyorejo 210",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 501,
+        "kecamatan": "Mulyorejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.791014,
+          -7.272557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0211",
+        "nama": "SMP Negeri Tambaksari 211",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 674,
+        "kecamatan": "Tambaksari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.746661,
+          -7.242304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0212",
+        "nama": "SD Negeri Jambangan 212",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 244,
+        "kecamatan": "Jambangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.727429,
+          -7.31871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0213",
+        "nama": "SMK Swasta Jambangan 213",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 635,
+        "kecamatan": "Jambangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.738562,
+          -7.327381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0214",
+        "nama": "SD Negeri Lakarsantri 214",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 409,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64906,
+          -7.324757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0215",
+        "nama": "SMA Negeri Tegalsari 215",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 302,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.719339,
+          -7.258497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0216",
+        "nama": "SMK Negeri Bubutan 216",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 713,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.726103,
+          -7.278897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0217",
+        "nama": "SD Negeri Lakarsantri 217",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 387,
+        "kecamatan": "Lakarsantri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.675208,
+          -7.322253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0218",
+        "nama": "SMK Negeri Sukolilo 218",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 542,
+        "kecamatan": "Sukolilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.788072,
+          -7.285387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0219",
+        "nama": "SD Negeri Sambikerep 219",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 447,
+        "kecamatan": "Sambikerep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.664305,
+          -7.285033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0220",
+        "nama": "SMP Negeri Bubutan 220",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 767,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73287,
+          -7.28804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0221",
+        "nama": "SD Swasta Kenjeran 221",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 281,
+        "kecamatan": "Kenjeran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.796369,
+          -7.246072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0222",
+        "nama": "SMP Swasta Gayungan 222",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 557,
+        "kecamatan": "Gayungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.727489,
+          -7.333792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0223",
+        "nama": "SMP Negeri Tambaksari 223",
+        "jenjang": "SMP",
+        "status": "Negeri",
+        "jumlah_siswa": 276,
+        "kecamatan": "Tambaksari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.748496,
+          -7.260058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0224",
+        "nama": "SMP Swasta Semampir 224",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 164,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.743902,
+          -7.227612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0225",
+        "nama": "SD Negeri Dukuh Pakis 225",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 184,
+        "kecamatan": "Dukuh Pakis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.713917,
+          -7.307632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0226",
+        "nama": "SD Negeri Bubutan 226",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 263,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.742426,
+          -7.240778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0227",
+        "nama": "SMP Swasta Bubutan 227",
+        "jenjang": "SMP",
+        "status": "Swasta",
+        "jumlah_siswa": 670,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.722672,
+          -7.25334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0228",
+        "nama": "SMA Swasta Tenggilis Mejoyo 228",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 731,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.766791,
+          -7.338782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0229",
+        "nama": "SD Swasta Semampir 229",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 60,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.735746,
+          -7.238959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0230",
+        "nama": "SD Swasta Tegalsari 230",
+        "jenjang": "SD",
+        "status": "Swasta",
+        "jumlah_siswa": 382,
+        "kecamatan": "Tegalsari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.731389,
+          -7.277783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0231",
+        "nama": "SMA Swasta Gubeng 231",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 294,
+        "kecamatan": "Gubeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.733594,
+          -7.26778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0232",
+        "nama": "SD Negeri Krembangan 232",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 509,
+        "kecamatan": "Krembangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.711682,
+          -7.255795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0233",
+        "nama": "SD Negeri Semampir 233",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 216,
+        "kecamatan": "Semampir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.756306,
+          -7.242926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0234",
+        "nama": "SMK Swasta Tenggilis Mejoyo 234",
+        "jenjang": "SMK",
+        "status": "Swasta",
+        "jumlah_siswa": 1043,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.773739,
+          -7.325935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0235",
+        "nama": "SMK Negeri Dukuh Pakis 235",
+        "jenjang": "SMK",
+        "status": "Negeri",
+        "jumlah_siswa": 442,
+        "kecamatan": "Dukuh Pakis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.736294,
+          -7.306587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0236",
+        "nama": "SD Negeri Bubutan 236",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 447,
+        "kecamatan": "Bubutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.713268,
+          -7.256312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0237",
+        "nama": "SMA Swasta Simokerto 237",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 992,
+        "kecamatan": "Simokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.763885,
+          -7.246972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0238",
+        "nama": "SD Negeri Pakal 238",
+        "jenjang": "SD",
+        "status": "Negeri",
+        "jumlah_siswa": 412,
+        "kecamatan": "Pakal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.688745,
+          -7.211565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0239",
+        "nama": "SMA Negeri Tenggilis Mejoyo 239",
+        "jenjang": "SMA",
+        "status": "Negeri",
+        "jumlah_siswa": 673,
+        "kecamatan": "Tenggilis Mejoyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.754001,
+          -7.318001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SK0240",
+        "nama": "SMA Swasta Pakal 240",
+        "jenjang": "SMA",
+        "status": "Swasta",
+        "jumlah_siswa": 891,
+        "kecamatan": "Pakal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.678978,
+          -7.212621
+        ]
+      }
+    }
+  ]
+}

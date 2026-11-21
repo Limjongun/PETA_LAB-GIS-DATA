@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PetaLab — Spatial Analysis & Machine Learning</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              slate: {
+                50:  '#f4f7f7',
+                100: '#e9efef',
+                200: '#d3dfdf',
+                300: '#b3c6c7',
+                400: '#7f999c',
+                500: '#5a7478',
+                600: '#3f565a',
+                700: '#243438',
+                800: '#131d20',
+                900: '#0b1214',
+                950: '#060a0b',
+              },
+            },
+            fontFamily: {
+              sans: ['"Plus Jakarta Sans"', 'Inter', 'system-ui', '-apple-system', 'sans-serif'],
+              mono: ['"JetBrains Mono"', 'monospace'],
+            }
+          }
+        }
+      };
+    </script>
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+    <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+    <script src="https://unpkg.com/echarts@5.5.1/dist/echarts.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone@7.26.2/babel.min.js"></script>
+    <style>
+      body {
+        font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 400;
+        letter-spacing: -0.01em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+      h1, h2, h3, h4 {
+        font-weight: 500;
+        letter-spacing: -0.015em;
+      }
+      button, select, input {
+        font-weight: 400;
+      }
+      html.dark select option {
+        background-color: #131d20;
+        color: #e6f0f0;
+      }
+      select:focus, input:focus, textarea:focus {
+        outline: none;
+        border-color: #0d9488;
+      }
+      .tabular-nums { font-variant-numeric: tabular-nums; }
+      ::-webkit-scrollbar { width: 5px; height: 5px; }
+      ::-webkit-scrollbar-track { background: transparent; }
+      ::-webkit-scrollbar-thumb { background: rgba(90, 116, 120, 0.35); border-radius: 2px; }
+      ::-webkit-scrollbar-thumb:hover { background: rgba(13, 148, 136, 0.55); }
+    </style>
+  </head>
+  <body class="bg-slate-50/80 text-slate-800 antialiased selection:bg-slate-900 selection:text-white">
+    <div id="root">
+      <div class="flex flex-col items-center justify-center h-screen w-screen bg-slate-950 text-slate-300 text-xs font-light tracking-widest uppercase">
+        <span>PetaLab Spatial Studio</span>
+      </div>
+    </div>
+    <script>
+      (async function bootPetaLab() {
+        try {
+          const res = await fetch('/assets/petalab_app.tsx?v=' + Date.now());
+          const tsxCode = await res.text();
+          const compiled = Babel.transform(tsxCode, {
+            filename: 'petalab_app.tsx',
+            presets: ['react', 'typescript'],
+          }).code;
+          const fn = new Function(compiled);
+          fn();
+        } catch (err) {
+          console.error('PetaLab Boot Error:', err);
+          const root = document.getElementById('root');
+          if (root) {
+            root.innerHTML = '<div style="padding:24px;color:#ef4444;font-family:monospace;white-space:pre-wrap;">Gagal memuat UI PetaLab:\n' + (err && err.stack ? err.stack : err) + '</div>';
+          }
+        }
+      })();
+    </script>
+  </body>
+</html>

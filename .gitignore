@@ -1,0 +1,29 @@
+# PetaLab local runtime workspace (projects, SQLite DBs, credentials, GEE cache, exports)
+workspace/
+
+# Personal local OAuth helper script (contains personal GCP Project ID / local path)
+Login_GEE.bat
+
+# Python caches & packaging artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Node / Frontend build dependencies (keep frontend/dist tracked for zero-Node local launch)
+frontend/node_modules/
+frontend/.vite/
+
+# OS & editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.env
+.env.*

@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "name": "koridor_bus_surabaya",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_koridor": "Koridor 1",
+        "jumlah_halte": 24,
+        "panjang_km_perkiraan": 16.49,
+        "catatan": "rute kasar antar pusat kecamatan, bukan rute resmi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.6365,
+            -7.2262
+          ],
+          [
+            112.6812,
+            -7.2151
+          ],
+          [
+            112.7012,
+            -7.2255
+          ],
+          [
+            112.7239,
+            -7.2385
+          ],
+          [
+            112.7467,
+            -7.2705
+          ],
+          [
+            112.7316,
+            -7.2704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_koridor": "Koridor 2",
+        "jumlah_halte": 22,
+        "panjang_km_perkiraan": 19.18,
+        "catatan": "rute kasar antar pusat kecamatan, bukan rute resmi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.6626,
+            -7.3207
+          ],
+          [
+            112.6606,
+            -7.2706
+          ],
+          [
+            112.665,
+            -7.2586
+          ],
+          [
+            112.714,
+            -7.242
+          ],
+          [
+            112.7324,
+            -7.2543
+          ],
+          [
+            112.7316,
+            -7.2704
+          ],
+          [
+            112.7512,
+            -7.2653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_koridor": "Koridor 3",
+        "jumlah_halte": 26,
+        "panjang_km_perkiraan": 19.52,
+        "catatan": "rute kasar antar pusat kecamatan, bukan rute resmi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.7097,
+            -7.3035
+          ],
+          [
+            112.7046,
+            -7.3262
+          ],
+          [
+            112.7417,
+            -7.3109
+          ],
+          [
+            112.7384,
+            -7.2997
+          ],
+          [
+            112.7512,
+            -7.2653
+          ],
+          [
+            112.7876,
+            -7.2636
+          ],
+          [
+            112.7955,
+            -7.2904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_koridor": "Koridor 4",
+        "jumlah_halte": 29,
+        "panjang_km_perkiraan": 17.34,
+        "catatan": "rute kasar antar pusat kecamatan, bukan rute resmi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.7813,
+            -7.3142
+          ],
+          [
+            112.76,
+            -7.318
+          ],
+          [
+            112.7968,
+            -7.3398
+          ],
+          [
+            112.7283,
+            -7.3175
+          ],
+          [
+            112.7384,
+            -7.2997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_koridor": "Koridor 5",
+        "jumlah_halte": 19,
+        "panjang_km_perkiraan": 13.63,
+        "catatan": "rute kasar antar pusat kecamatan, bukan rute resmi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            112.788,
+            -7.2287
+          ],
+          [
+            112.789,
+            -7.2407
+          ],
+          [
+            112.7566,
+            -7.2387
+          ],
+          [
+            112.7373,
+            -7.2352
+          ],
+          [
+            112.7345,
+            -7.262
+          ],
+          [
+            112.7233,
+            -7.2919
+          ]
+        ]
+      }
+    }
+  ]
+}

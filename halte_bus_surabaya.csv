@@ -1,0 +1,121 @@
+id,nama_halte,koridor,kecamatan,aktif,la,lo
+HT001,Halte Benowo 001,Koridor 5,Benowo,Tidak,-7.234507,112.604534
+HT002,Halte Gunung Anyar 002,Koridor 1,Gunung Anyar,Ya,-7.326181,112.826291
+HT003,Halte Pakal 003,Koridor 2,Pakal,Ya,-7.219196,112.697169
+HT004,Halte Kenjeran 004,Koridor 1,Kenjeran,Ya,-7.236861,112.788867
+HT005,Halte Pakal 005,Koridor 5,Pakal,Ya,-7.198436,112.678887
+HT006,Halte Mulyorejo 006,Koridor 1,Mulyorejo,Ya,-7.274652,112.770585
+HT007,Halte Rungkut 007,Koridor 4,Rungkut,Ya,-7.3024,112.779073
+HT008,Halte Gubeng 008,Koridor 3,Gubeng,Ya,-7.25612,112.778645
+HT009,Halte Dukuh Pakis 009,Koridor 4,Dukuh Pakis,Ya,-7.252336,112.720671
+HT010,Halte Asemrowo 010,Koridor 1,Asemrowo,Ya,-7.245822,112.680763
+HT011,Halte Benowo 011,Koridor 1,Benowo,Ya,-7.233162,112.62469
+HT012,Halte Jambangan 012,Koridor 5,Jambangan,Ya,-7.31693,112.739946
+HT013,Halte Gayungan 013,Koridor 3,Gayungan,Tidak,-7.339915,112.737354
+HT014,Halte Rungkut 014,Koridor 3,Rungkut,Ya,-7.312932,112.817633
+HT015,Halte Kenjeran 015,Koridor 2,Kenjeran,Ya,-7.226974,112.789092
+HT016,Halte Pakal 016,Koridor 2,Pakal,Ya,-7.214823,112.705424
+HT017,Halte Tegalsari 017,Koridor 1,Tegalsari,Ya,-7.258887,112.746226
+HT018,Halte Jambangan 018,Koridor 3,Jambangan,Tidak,-7.321536,112.72402
+HT019,Halte Wiyung 019,Koridor 2,Wiyung,Ya,-7.315691,112.691131
+HT020,Halte Krembangan 020,Koridor 3,Krembangan,Ya,-7.241495,112.707831
+HT021,Halte Sawahan 021,Koridor 2,Sawahan,Ya,-7.228711,112.739624
+HT022,Halte Semampir 022,Koridor 4,Semampir,Ya,-7.241293,112.731127
+HT023,Halte Pakal 023,Koridor 5,Pakal,Ya,-7.238397,112.670508
+HT024,Halte Simokerto 024,Koridor 5,Simokerto,Tidak,-7.23995,112.72793
+HT025,Halte Semampir 025,Koridor 2,Semampir,Ya,-7.235177,112.758686
+HT026,Halte Tenggilis Mejoyo 026,Koridor 1,Tenggilis Mejoyo,Ya,-7.328957,112.770737
+HT027,Halte Asemrowo 027,Koridor 5,Asemrowo,Ya,-7.232349,112.686486
+HT028,Halte Tandes 028,Koridor 1,Tandes,Ya,-7.25878,112.648447
+HT029,Halte Simokerto 029,Koridor 5,Simokerto,Ya,-7.225567,112.758223
+HT030,Halte Bubutan 030,Koridor 3,Bubutan,Ya,-7.259754,112.757923
+HT031,Halte Semampir 031,Koridor 4,Semampir,Ya,-7.252438,112.757123
+HT032,Halte Simokerto 032,Koridor 3,Simokerto,Ya,-7.244436,112.729715
+HT033,Halte Bubutan 033,Koridor 5,Bubutan,Ya,-7.255562,112.743067
+HT034,Halte Jambangan 034,Koridor 5,Jambangan,Ya,-7.31952,112.727384
+HT035,Halte Gunung Anyar 035,Koridor 1,Gunung Anyar,Ya,-7.347265,112.777161
+HT036,Halte Pakal 036,Koridor 3,Pakal,Ya,-7.230405,112.684655
+HT037,Halte Wonocolo 037,Koridor 5,Wonocolo,Tidak,-7.298765,112.778458
+HT038,Halte Asemrowo 038,Koridor 3,Asemrowo,Tidak,-7.250566,112.707809
+HT039,Halte Mulyorejo 039,Koridor 3,Mulyorejo,Tidak,-7.287243,112.807961
+HT040,Halte Bubutan 040,Koridor 5,Bubutan,Ya,-7.242412,112.746983
+HT041,Halte Kenjeran 041,Koridor 2,Kenjeran,Ya,-7.256458,112.777034
+HT042,Halte Bulak 042,Koridor 3,Bulak,Ya,-7.225211,112.817691
+HT043,Halte Asemrowo 043,Koridor 2,Asemrowo,Ya,-7.209217,112.701567
+HT044,Halte Jambangan 044,Koridor 2,Jambangan,Ya,-7.329256,112.735135
+HT045,Halte Karang Pilang 045,Koridor 1,Karang Pilang,Ya,-7.331944,112.715952
+HT046,Halte Tenggilis Mejoyo 046,Koridor 2,Tenggilis Mejoyo,Ya,-7.324941,112.730664
+HT047,Halte Kenjeran 047,Koridor 1,Kenjeran,Ya,-7.280834,112.820988
+HT048,Halte Kenjeran 048,Koridor 4,Kenjeran,Ya,-7.239724,112.761541
+HT049,Halte Benowo 049,Koridor 3,Benowo,Tidak,-7.231459,112.630538
+HT050,Halte Lakarsantri 050,Koridor 5,Lakarsantri,Ya,-7.330361,112.684696
+HT051,Halte Lakarsantri 051,Koridor 1,Lakarsantri,Tidak,-7.313198,112.644313
+HT052,Halte Tenggilis Mejoyo 052,Koridor 5,Tenggilis Mejoyo,Ya,-7.339266,112.753204
+HT053,Halte Sukomanunggal 053,Koridor 4,Sukomanunggal,Ya,-7.264295,112.721111
+HT054,Halte Jambangan 054,Koridor 4,Jambangan,Ya,-7.286992,112.737996
+HT055,Halte Pabean Cantian 055,Koridor 4,Pabean Cantian,Ya,-7.241735,112.747091
+HT056,Halte Semampir 056,Koridor 3,Semampir,Ya,-7.247295,112.762346
+HT057,Halte Simokerto 057,Koridor 4,Simokerto,Ya,-7.231826,112.762735
+HT058,Halte Pakal 058,Koridor 4,Pakal,Ya,-7.229714,112.676412
+HT059,Halte Tambaksari 059,Koridor 4,Tambaksari,Ya,-7.269735,112.766667
+HT060,Halte Gayungan 060,Koridor 3,Gayungan,Ya,-7.34113,112.729477
+HT061,Halte Tandes 061,Koridor 5,Tandes,Ya,-7.257765,112.667693
+HT062,Halte Krembangan 062,Koridor 4,Krembangan,Ya,-7.238751,112.71429
+HT063,Halte Tambaksari 063,Koridor 1,Tambaksari,Ya,-7.272195,112.759113
+HT064,Halte Simokerto 064,Koridor 5,Simokerto,Ya,-7.27083,112.744481
+HT065,Halte Bubutan 065,Koridor 3,Bubutan,Ya,-7.251006,112.726168
+HT066,Halte Lakarsantri 066,Koridor 3,Lakarsantri,Ya,-7.304177,112.639458
+HT067,Halte Benowo 067,Koridor 4,Benowo,Ya,-7.233691,112.607691
+HT068,Halte Sambikerep 068,Koridor 4,Sambikerep,Tidak,-7.256645,112.660616
+HT069,Halte Tegalsari 069,Koridor 5,Tegalsari,Ya,-7.24734,112.702049
+HT070,Halte Bulak 070,Koridor 2,Bulak,Ya,-7.219079,112.802039
+HT071,Halte Tenggilis Mejoyo 071,Koridor 4,Tenggilis Mejoyo,Ya,-7.297129,112.772344
+HT072,Halte Dukuh Pakis 072,Koridor 2,Dukuh Pakis,Ya,-7.295413,112.721663
+HT073,Halte Tenggilis Mejoyo 073,Koridor 2,Tenggilis Mejoyo,Ya,-7.330022,112.747753
+HT074,Halte Tambaksari 074,Koridor 1,Tambaksari,Tidak,-7.244303,112.765822
+HT075,Halte Genteng 075,Koridor 4,Genteng,Ya,-7.272191,112.771395
+HT076,Halte Rungkut 076,Koridor 3,Rungkut,Ya,-7.302889,112.781042
+HT077,Halte Tegalsari 077,Koridor 2,Tegalsari,Ya,-7.280519,112.733183
+HT078,Halte Tenggilis Mejoyo 078,Koridor 4,Tenggilis Mejoyo,Ya,-7.321373,112.748485
+HT079,Halte Pabean Cantian 079,Koridor 4,Pabean Cantian,Ya,-7.226411,112.742211
+HT080,Halte Kenjeran 080,Koridor 2,Kenjeran,Ya,-7.262278,112.789957
+HT081,Halte Kenjeran 081,Koridor 4,Kenjeran,Ya,-7.232687,112.812685
+HT082,Halte Pakal 082,Koridor 1,Pakal,Ya,-7.204812,112.716793
+HT083,Halte Tegalsari 083,Koridor 2,Tegalsari,Ya,-7.269208,112.741434
+HT084,Halte Jambangan 084,Koridor 1,Jambangan,Ya,-7.301859,112.723426
+HT085,Halte Gubeng 085,Koridor 4,Gubeng,Tidak,-7.283262,112.761516
+HT086,Halte Dukuh Pakis 086,Koridor 4,Dukuh Pakis,Ya,-7.289015,112.724325
+HT087,Halte Lakarsantri 087,Koridor 1,Lakarsantri,Ya,-7.322929,112.653952
+HT088,Halte Sukolilo 088,Koridor 3,Sukolilo,Tidak,-7.295656,112.747274
+HT089,Halte Karang Pilang 089,Koridor 2,Karang Pilang,Ya,-7.313265,112.734758
+HT090,Halte Benowo 090,Koridor 3,Benowo,Ya,-7.233194,112.62477
+HT091,Halte Karang Pilang 091,Koridor 4,Karang Pilang,Ya,-7.325684,112.705528
+HT092,Halte Kenjeran 092,Koridor 4,Kenjeran,Tidak,-7.233784,112.787015
+HT093,Halte Genteng 093,Koridor 4,Genteng,Ya,-7.286641,112.767074
+HT094,Halte Lakarsantri 094,Koridor 1,Lakarsantri,Ya,-7.305596,112.66743
+HT095,Halte Wonokromo 095,Koridor 4,Wonokromo,Ya,-7.295031,112.75088
+HT096,Halte Asemrowo 096,Koridor 4,Asemrowo,Ya,-7.225255,112.720818
+HT097,Halte Krembangan 097,Koridor 1,Krembangan,Ya,-7.263107,112.729555
+HT098,Halte Genteng 098,Koridor 1,Genteng,Ya,-7.260261,112.739118
+HT099,Halte Tenggilis Mejoyo 099,Koridor 5,Tenggilis Mejoyo,Ya,-7.295672,112.766272
+HT100,Halte Wonokromo 100,Koridor 3,Wonokromo,Ya,-7.30627,112.759802
+HT101,Halte Tandes 101,Koridor 1,Tandes,Ya,-7.248499,112.666551
+HT102,Halte Tenggilis Mejoyo 102,Koridor 4,Tenggilis Mejoyo,Ya,-7.304737,112.756048
+HT103,Halte Lakarsantri 103,Koridor 4,Lakarsantri,Ya,-7.309677,112.674745
+HT104,Halte Wonokromo 104,Koridor 3,Wonokromo,Ya,-7.289062,112.716772
+HT105,Halte Karang Pilang 105,Koridor 3,Karang Pilang,Ya,-7.349963,112.710577
+HT106,Halte Pakal 106,Koridor 2,Pakal,Ya,-7.221524,112.686401
+HT107,Halte Semampir 107,Koridor 1,Semampir,Ya,-7.256144,112.758616
+HT108,Halte Lakarsantri 108,Koridor 1,Lakarsantri,Ya,-7.309749,112.661761
+HT109,Halte Bulak 109,Koridor 4,Bulak,Ya,-7.25072,112.788211
+HT110,Halte Gubeng 110,Koridor 2,Gubeng,Ya,-7.282184,112.760923
+HT111,Halte Sukomanunggal 111,Koridor 5,Sukomanunggal,Ya,-7.230158,112.697035
+HT112,Halte Tegalsari 112,Koridor 3,Tegalsari,Ya,-7.27532,112.74903
+HT113,Halte Sukomanunggal 113,Koridor 3,Sukomanunggal,Ya,-7.238687,112.724023
+HT114,Halte Dukuh Pakis 114,Koridor 3,Dukuh Pakis,Ya,-7.278164,112.711062
+HT115,Halte Krembangan 115,Koridor 3,Krembangan,Ya,-7.22186,112.72311
+HT116,Halte Tandes 116,Koridor 1,Tandes,Ya,-7.283113,112.629734
+HT117,Halte Pabean Cantian 117,Koridor 2,Pabean Cantian,Ya,-7.218477,112.711151
+HT118,Halte Jambangan 118,Koridor 2,Jambangan,Tidak,-7.310852,112.734481
+HT119,Halte Sambikerep 119,Koridor 2,Sambikerep,Ya,-7.25837,112.654861
+HT120,Halte Mulyorejo 120,Koridor 5,Mulyorejo,Tidak,-7.265117,112.811834

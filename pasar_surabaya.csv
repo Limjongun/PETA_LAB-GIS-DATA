@@ -1,0 +1,81 @@
+id,nama,tipe,kecamatan,jumlah_pedagang,la,lo
+PS001,Pasar Karang Pilang 01,Modern,Karang Pilang,102,-7.324076,112.706718
+PS002,Pasar Sambikerep 02,Tradisional,Sambikerep,231,-7.273638,112.660458
+PS003,Pasar Lakarsantri 03,Tradisional,Lakarsantri,265,-7.306803,112.675834
+PS004,Pasar Tenggilis Mejoyo 04,Tradisional,Tenggilis Mejoyo,292,-7.336605,112.740817
+PS005,Pasar Sambikerep 05,Tradisional,Sambikerep,307,-7.268216,112.655088
+PS006,Pasar Lakarsantri 06,Tradisional,Lakarsantri,246,-7.313724,112.668971
+PS007,Pasar Tegalsari 07,Tradisional,Tegalsari,332,-7.261765,112.733495
+PS008,Pasar Sukolilo 08,Tradisional,Sukolilo,289,-7.283447,112.798233
+PS009,Pasar Simokerto 09,Tradisional,Simokerto,273,-7.258634,112.758239
+PS010,Pasar Gubeng 10,Modern,Gubeng,89,-7.267892,112.74339
+PS011,Pasar Sambikerep 11,Tradisional,Sambikerep,195,-7.27029,112.646298
+PS012,Pasar Bubutan 12,Tradisional,Bubutan,290,-7.278111,112.743606
+PS013,Pasar Dukuh Pakis 13,Modern,Dukuh Pakis,20,-7.27861,112.735719
+PS014,Pasar Tandes 14,Modern,Tandes,161,-7.265212,112.680616
+PS015,Pasar Sawahan 15,Tradisional,Sawahan,267,-7.258273,112.73966
+PS016,Pasar Sukolilo 16,Tradisional,Sukolilo,290,-7.274523,112.801863
+PS017,Pasar Semampir 17,Tradisional,Semampir,228,-7.249551,112.751818
+PS018,Pasar Kenjeran 18,Tradisional,Kenjeran,117,-7.24718,112.79059
+PS019,Pasar Bulak 19,Tradisional,Bulak,271,-7.219824,112.787191
+PS020,Pasar Wonokromo 20,Modern,Wonokromo,49,-7.289194,112.744226
+PS021,Pasar Rungkut 21,Tradisional,Rungkut,308,-7.305351,112.764929
+PS022,Pasar Kenjeran 22,Tradisional,Kenjeran,225,-7.246523,112.794438
+PS023,Pasar Bubutan 23,Tradisional,Bubutan,265,-7.254033,112.719894
+PS024,Pasar Gunung Anyar 24,Tradisional,Gunung Anyar,268,-7.331507,112.807585
+PS025,Pasar Sawahan 25,Tradisional,Sawahan,362,-7.259193,112.71722
+PS026,Pasar Simokerto 26,Tradisional,Simokerto,250,-7.26794,112.75499
+PS027,Pasar Tenggilis Mejoyo 27,Modern,Tenggilis Mejoyo,140,-7.328487,112.755859
+PS028,Pasar Semampir 28,Tradisional,Semampir,279,-7.227108,112.786208
+PS029,Pasar Mulyorejo 29,Tradisional,Mulyorejo,247,-7.260548,112.7939
+PS030,Pasar Bulak 30,Modern,Bulak,120,-7.231873,112.785247
+PS031,Pasar Genteng 31,Tradisional,Genteng,291,-7.26376,112.740687
+PS032,Pasar Bulak 32,Tradisional,Bulak,314,-7.258974,112.790274
+PS033,Pasar Pabean Cantian 33,Tradisional,Pabean Cantian,287,-7.232576,112.732557
+PS034,Pasar Tegalsari 34,Tradisional,Tegalsari,305,-7.277816,112.730836
+PS035,Pasar Tenggilis Mejoyo 35,Tradisional,Tenggilis Mejoyo,313,-7.307036,112.773287
+PS036,Pasar Semampir 36,Modern,Semampir,134,-7.241538,112.748527
+PS037,Pasar Kenjeran 37,Modern,Kenjeran,89,-7.23455,112.776439
+PS038,Pasar Semampir 38,Tradisional,Semampir,238,-7.22669,112.727089
+PS039,Pasar Wiyung 39,Tradisional,Wiyung,264,-7.292394,112.712116
+PS040,Pasar Pabean Cantian 40,Tradisional,Pabean Cantian,215,-7.232625,112.737774
+PS041,Pasar Gunung Anyar 41,Tradisional,Gunung Anyar,293,-7.325735,112.785632
+PS042,Pasar Sukomanunggal 42,Modern,Sukomanunggal,225,-7.231939,112.711077
+PS043,Pasar Gubeng 43,Tradisional,Gubeng,197,-7.263434,112.719446
+PS044,Pasar Sawahan 44,Modern,Sawahan,142,-7.270171,112.734458
+PS045,Pasar Tandes 45,Tradisional,Tandes,277,-7.263392,112.651738
+PS046,Pasar Genteng 46,Tradisional,Genteng,331,-7.262074,112.764184
+PS047,Pasar Karang Pilang 47,Tradisional,Karang Pilang,365,-7.332039,112.686942
+PS048,Pasar Bubutan 48,Tradisional,Bubutan,286,-7.259238,112.739525
+PS049,Pasar Dukuh Pakis 49,Tradisional,Dukuh Pakis,160,-7.28843,112.711985
+PS050,Pasar Pabean Cantian 50,Tradisional,Pabean Cantian,199,-7.243384,112.748504
+PS051,Pasar Dukuh Pakis 51,Tradisional,Dukuh Pakis,294,-7.308765,112.737918
+PS052,Pasar Dukuh Pakis 52,Tradisional,Dukuh Pakis,330,-7.277651,112.708455
+PS053,Pasar Genteng 53,Tradisional,Genteng,279,-7.25788,112.747539
+PS054,Pasar Rungkut 54,Tradisional,Rungkut,198,-7.297794,112.799009
+PS055,Pasar Kenjeran 55,Modern,Kenjeran,52,-7.25793,112.768504
+PS056,Pasar Wonocolo 56,Tradisional,Wonocolo,246,-7.324027,112.73904
+PS057,Pasar Asemrowo 57,Modern,Asemrowo,135,-7.240357,112.702221
+PS058,Pasar Dukuh Pakis 58,Tradisional,Dukuh Pakis,220,-7.294077,112.709443
+PS059,Pasar Karang Pilang 59,Tradisional,Karang Pilang,181,-7.328622,112.708377
+PS060,Pasar Benowo 60,Tradisional,Benowo,116,-7.229385,112.655152
+PS061,Pasar Pakal 61,Tradisional,Pakal,406,-7.21104,112.6902
+PS062,Pasar Pakal 62,Tradisional,Pakal,284,-7.21233,112.689619
+PS063,Pasar Pakal 63,Tradisional,Pakal,94,-7.211494,112.674142
+PS064,Pasar Tenggilis Mejoyo 64,Modern,Tenggilis Mejoyo,20,-7.297438,112.74916
+PS065,Pasar Genteng 65,Modern,Genteng,143,-7.266249,112.74271
+PS066,Pasar Gubeng 66,Tradisional,Gubeng,269,-7.26313,112.760287
+PS067,Pasar Bulak 67,Modern,Bulak,182,-7.214296,112.784734
+PS068,Pasar Wonocolo 68,Tradisional,Wonocolo,227,-7.328756,112.74537
+PS069,Pasar Bulak 69,Tradisional,Bulak,48,-7.226034,112.791232
+PS070,Pasar Lakarsantri 70,Modern,Lakarsantri,83,-7.330167,112.669138
+PS071,Pasar Kenjeran 71,Tradisional,Kenjeran,257,-7.242849,112.777823
+PS072,Pasar Asemrowo 72,Tradisional,Asemrowo,234,-7.234651,112.700194
+PS073,Pasar Tenggilis Mejoyo 73,Tradisional,Tenggilis Mejoyo,382,-7.319814,112.765094
+PS074,Pasar Gunung Anyar 74,Tradisional,Gunung Anyar,254,-7.334019,112.792919
+PS075,Pasar Tambaksari 75,Tradisional,Tambaksari,123,-7.242534,112.762474
+PS076,Pasar Dukuh Pakis 76,Tradisional,Dukuh Pakis,210,-7.304696,112.722108
+PS077,Pasar Karang Pilang 77,Tradisional,Karang Pilang,359,-7.320261,112.700796
+PS078,Pasar Tenggilis Mejoyo 78,Tradisional,Tenggilis Mejoyo,272,-7.310743,112.764514
+PS079,Pasar Sawahan 79,Modern,Sawahan,247,-7.245388,112.722807
+PS080,Pasar Rungkut 80,Tradisional,Rungkut,278,-7.300977,112.773528
